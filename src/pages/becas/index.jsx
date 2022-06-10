@@ -63,9 +63,6 @@ useEffect(()=> {
 
                   </div>
 
-
-
-
                   <div className="font-sans font-bolder text-center align-middle "
                        style={{height: '105px', fontSize: '42px', margin: '0 auto'}}
                   >
@@ -74,12 +71,12 @@ useEffect(()=> {
                           fontStyle: 'bold',
                           fontFamily: 'Source Sans Pro',
                           letterSpacing: '-1.9px'
-                      }}>BECAS OTORGADAS POR SEMESTRE
+                      }}>BECAS OTORGADAS POR PERIODO
                       </h1>
                   </div>
                   <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
                        style={{maxWidth: '600px', marginTop: '-30px',  position: 'relative', margin: '0 auto'}}>
-                      <a href="assets/files/MATRICULADOS_2022-1_BENEFICIO_COSTO_CERO.pdf">
+                      <a href="assets/files/PERIODO 2020-1 - COSTO CERO.pdf">
                       <div >
                           <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
                           <div style={{
@@ -91,27 +88,15 @@ useEffect(()=> {
                               position: 'relative',
                               top: '-40px',
                               left: '70px'
-                          }}>BECAS OTORGADAS PERIODO 2022-I
+                          }}>PERIODO 2020-1
                           </div>
                       </div>
                       </a>
-
                   </div>
 
-                  <div className="font-sans font-bolder text-center align-middle "
-                       style={{height: '105px', fontSize: '42px', margin: '0 auto'}}
-                  >
-                      <h1 style={{
-                          marginTop: '40px',
-                          fontStyle: 'bold',
-                          fontFamily: 'Source Sans Pro',
-                          letterSpacing: '-1.9px'
-                      }}>CRÉDITOS EDUCATIVOS
-                      </h1>
-                  </div>
                   <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
                        style={{maxWidth: '600px', marginTop: '-30px',  position: 'relative', margin: '0 auto'}}>
-                      {/*<a href="">*/}
+                      <a href="assets/files/PERIODO 2020-2 - COSTO CERO.pdf">
                           <div >
                               <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
                               <div style={{
@@ -123,13 +108,139 @@ useEffect(()=> {
                                   position: 'relative',
                                   top: '-40px',
                                   left: '70px'
-                              }}>CRÉDITOS EDUCATIVOS
+                              }}>PERIODO 2020-2
                               </div>
                           </div>
-                      {/*</a>*/}
-
+                      </a>
                   </div>
 
+                  <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
+                       style={{maxWidth: '600px', marginTop: '-30px',  position: 'relative', margin: '0 auto'}}>
+                      <a href="assets/files/PERIODO 2021-1 COSTO CERO.pdf">
+                          <div >
+                              <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
+                              <div style={{
+                                  color: 'rgb(63,13,175)',
+                                  marginTop: '8px',
+                                  fontFamily: 'Bebas Neue',
+                                  fontSize: '20px',
+                                  letterSpacing: '1.0px',
+                                  position: 'relative',
+                                  top: '-40px',
+                                  left: '70px'
+                              }}>PERIODO 2021-1
+                              </div>
+                          </div>
+                      </a>
+                  </div>
+
+                  <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
+                       style={{maxWidth: '600px', marginTop: '-30px',  position: 'relative', margin: '0 auto'}}>
+                      <a href="assets/files/PERIODO 2021-2 - COSTO CERO.pdf">
+                          <div >
+                              <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
+                              <div style={{
+                                  color: 'rgb(63,13,175)',
+                                  marginTop: '8px',
+                                  fontFamily: 'Bebas Neue',
+                                  fontSize: '20px',
+                                  letterSpacing: '1.0px',
+                                  position: 'relative',
+                                  top: '-40px',
+                                  left: '70px'
+                              }}>PERIODO 2021-2
+                              </div>
+                          </div>
+                      </a>
+                  </div>
+
+                  <div className="font-sans font-bolder text-center align-middle "
+                       style={{height: '105px', fontSize: '42px', margin: '0 auto'}}
+                  >
+                      <h1 style={{
+                          marginTop: '40px',
+                          fontStyle: 'bold',
+                          fontFamily: 'Source Sans Pro',
+                          letterSpacing: '-1.9px'
+                      }}>DESCUENTO POR PANDEMIA
+                      </h1>
+                  </div>
+                  <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
+                       style={{maxWidth: '600px', marginTop: '-30px',  position: 'relative', margin: '0 auto'}}>
+                      <a href="assets/files/PERIODO 2020-1 - PANDEMIA.pdf">
+                          <div >
+                              <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
+                              <div style={{
+                                  color: 'rgb(63,13,175)',
+                                  marginTop: '8px',
+                                  fontFamily: 'Bebas Neue',
+                                  fontSize: '20px',
+                                  letterSpacing: '1.0px',
+                                  position: 'relative',
+                                  top: '-40px',
+                                  left: '70px'
+                              }}>PERIODO 2020-1
+                              </div>
+                          </div>
+                      </a>
+                  </div>
+                  <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
+                       style={{maxWidth: '600px', marginTop: '-30px',  position: 'relative', margin: '0 auto'}}>
+                      <a href="assets/files/PERIODO 2020-2 - PANDEMIA.pdf">
+                          <div >
+                              <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
+                              <div style={{
+                                  color: 'rgb(63,13,175)',
+                                  marginTop: '8px',
+                                  fontFamily: 'Bebas Neue',
+                                  fontSize: '20px',
+                                  letterSpacing: '1.0px',
+                                  position: 'relative',
+                                  top: '-40px',
+                                  left: '70px'
+                              }}>PERIODO 2020-2
+                              </div>
+                          </div>
+                      </a>
+                  </div>
+                  <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
+                       style={{maxWidth: '600px', marginTop: '-30px',  position: 'relative', margin: '0 auto'}}>
+                      <a href="assets/files/PERIODO 2021-1 -PANDEMIA.pdf">
+                          <div >
+                              <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
+                              <div style={{
+                                  color: 'rgb(63,13,175)',
+                                  marginTop: '8px',
+                                  fontFamily: 'Bebas Neue',
+                                  fontSize: '20px',
+                                  letterSpacing: '1.0px',
+                                  position: 'relative',
+                                  top: '-40px',
+                                  left: '70px'
+                              }}>PERIODO 2021-1
+                              </div>
+                          </div>
+                      </a>
+                  </div>
+                  <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
+                       style={{maxWidth: '600px', marginTop: '-30px',  position: 'relative', margin: '0 auto'}}>
+                      <a href="assets/files/PERIODO 2021-2 PANDEMIA.pdf">
+                          <div >
+                              <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
+                              <div style={{
+                                  color: 'rgb(63,13,175)',
+                                  marginTop: '8px',
+                                  fontFamily: 'Bebas Neue',
+                                  fontSize: '20px',
+                                  letterSpacing: '1.0px',
+                                  position: 'relative',
+                                  top: '-40px',
+                                  left: '70px'
+                              }}>PERIODO 2021-2
+                              </div>
+                          </div>
+                      </a>
+                  </div>
 
               </div>
           </div>
