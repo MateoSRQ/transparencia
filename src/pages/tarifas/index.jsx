@@ -51,7 +51,7 @@ function Index() {
                     </div>
                     <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
                          style={{maxWidth: '600px', marginTop: '-30px', position: 'relative', margin: '0 auto'}}>
-                        {/*<a href=''>*/}
+                        <a href='assets/files/22.06.12TARIFARIOS_PENSIONES_2022-1.pdf'>
                         <div>
                             <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
                             <div style={{
@@ -66,7 +66,7 @@ function Index() {
                             }}>ESCALA DE PENSIONES
                             </div>
                         </div>
-                        {/*</a>*/}
+                        </a>
                     </div>
 
                     <div className="font-sans font-bolder text-center align-middle "
