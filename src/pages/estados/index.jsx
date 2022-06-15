@@ -37,8 +37,8 @@ useEffect(()=> {
                           marginTop: '40px',
                           fontStyle: 'bold',
                           fontFamily: 'Source Sans Pro',
-                          letterSpacing: '-1.9px'
-                      }}>ESTADOS FINANCIEROS
+                          letterSpacing: '-1.9px',
+lineHeight: '32px'    }}>ESTADOS FINANCIEROS
                       </h1>
                   </div>
                   
@@ -135,8 +135,8 @@ useEffect(()=> {
                           marginTop: '40px',
                           fontStyle: 'bold',
                           fontFamily: 'Source Sans Pro',
-                          letterSpacing: '-1.9px'
-                      }}>INVERSIONES
+                          letterSpacing: '-1.9px',
+lineHeight: '32px'    }}>INVERSIONES
                       </h1>
                   </div>
 
@@ -167,8 +167,8 @@ useEffect(()=> {
                           marginTop: '40px',
                           fontStyle: 'bold',
                           fontFamily: 'Source Sans Pro',
-                          letterSpacing: '-1.9px'
-                      }}>REINVERSIONES
+                          letterSpacing: '-1.9px',
+lineHeight: '32px'    }}>REINVERSIONES
                       </h1>
                   </div>
 
@@ -200,8 +200,8 @@ useEffect(()=> {
                           marginTop: '40px',
                           fontStyle: 'bold',
                           fontFamily: 'Source Sans Pro',
-                          letterSpacing: '-1.9px'
-                      }}>OBRAS DE INFRAESTRUCTURA
+                          letterSpacing: '-1.9px',
+lineHeight: '32px'    }}>OBRAS DE INFRAESTRUCTURA
                       </h1>
                   </div>
 

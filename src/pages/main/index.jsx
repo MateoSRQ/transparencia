@@ -21,7 +21,8 @@ useEffect(()=> {
                           marginTop: '40px',
                           fontStyle: 'bold',
                           fontFamily: 'Source Sans Pro',
-                          letterSpacing: '-1.9px'
+                          letterSpacing: '-1.9px',
+                          lineHeight: '36px'
                       }}>TRANSPARENCIA GENERAL
                       </h1>
                   </div>
@@ -43,8 +44,9 @@ useEffect(()=> {
                                   color: 'rgb(63,13,175)',
                                   marginTop: '8px',
                                   fontFamily: 'Bebas Neue',
-                                  letterSpacing: '1.0px'
-                              }}>ESTATUTOS Y REGLAMENTO GENERAL
+                                  letterSpacing: '1.0px',
+                                  lineHeight: '20px'
+                              }}>ESTATUTO, REGLAMENTO GENERAL, PLAN ESTRATÉGICO INSTITUCIONAL
                               </div>
                               <div style={{
                                   marginTop: '7px',
@@ -54,7 +56,7 @@ useEffect(()=> {
                               }}>
                                   <div className="text-center"
                                       style={{ lineHeight: '15px', width: '90%', marginLeft: '5%'}}>
-                                    Información sobre el Estatuto Universitario, el Estatuto Societario y el Reglamento de la UAP
+                                      Información sobre el Estatuto Universitario, el Estatuto Societario, Reglamento General y Plan Estratégico Institucional de la UAP
                                   </div>
                               </div>
                           </div>
@@ -75,7 +77,9 @@ useEffect(()=> {
                                   color: 'rgb(63,13,175)',
                                   marginTop: '8px',
                                   fontFamily: 'Bebas Neue',
-                                  letterSpacing: '1.0px'
+                                  letterSpacing: '1.0px',
+                                  lineHeight: '20px'
+
                               }}>ACTAS DE DIRECTORIO y RESOLUCIONES RECTORALES
                               </div>
                               <div style={{
@@ -92,74 +96,6 @@ useEffect(()=> {
                           </div>
                       </Link>
 
-
-
-
-
-                      {/*<Link to="resoluciones">*/}
-                      {/*    <div className="font-sans font-bold text-center align-middle "*/}
-                      {/*         style={{*/}
-                      {/*             backgroundColor: 'white',*/}
-                      {/*             height: '100%',*/}
-                      {/*             margin: '14px',*/}
-                      {/*             borderTop: '4px solid rgb(139 92 246)',*/}
-                      {/*             fontSize: '24px',*/}
-                      {/*             marginBottom: '40px'*/}
-                      {/*         }}*/}
-                      {/*    >*/}
-                      {/*        <div style={{*/}
-                      {/*            color: 'rgb(63,13,175)',*/}
-                      {/*            marginTop: '8px',*/}
-                      {/*            fontFamily: 'Bebas Neue',*/}
-                      {/*            letterSpacing: '1.0px'*/}
-                      {/*        }}>RESOLUCIONES RECTORALES*/}
-                      {/*        </div>*/}
-                      {/*        <div style={{*/}
-                      {/*            marginTop: '7px',*/}
-                      {/*            fontFamily: 'Source Sans Pro',*/}
-                      {/*            letterSpacing: '-.2px',*/}
-                      {/*            fontSize: '15px'*/}
-                      {/*        }}>*/}
-                      {/*            <div className="text-center"*/}
-                      {/*                style={{ lineHeight: '15px', width: '90%', marginLeft: '5%'}}>*/}
-                      {/*              Información sobre las Resoluciones Rectorales de la UAP  */}
-                      {/*            </div>*/}
-                      {/*        </div>*/}
-                      {/*    </div>*/}
-                      {/*</Link>*/}
-
-                      {/*<Link to="reglamentos">*/}
-                      {/*    <div className="font-sans font-bold text-center align-middle "*/}
-                      {/*         style={{*/}
-                      {/*             backgroundColor: 'white',*/}
-                      {/*             height: '100%',*/}
-                      {/*             margin: '14px',*/}
-                      {/*             borderTop: '4px solid rgb(139 92 246)',*/}
-                      {/*             fontSize: '24px',*/}
-                      {/*             marginBottom: '40px'*/}
-                      {/*         }}*/}
-                      {/*    >*/}
-                      {/*        <div style={{*/}
-                      {/*            color: 'rgb(63,13,175)',*/}
-                      {/*            marginTop: '8px',*/}
-                      {/*            fontFamily: 'Bebas Neue',*/}
-                      {/*            letterSpacing: '1.0px'*/}
-                      {/*        }}>REGLAMENTOS*/}
-                      {/*        </div>*/}
-                      {/*        <div style={{*/}
-                      {/*            marginTop: '7px',*/}
-                      {/*            fontFamily: 'Source Sans Pro',*/}
-                      {/*            letterSpacing: '-.2px',*/}
-                      {/*            fontSize: '15px'*/}
-                      {/*        }}>*/}
-                      {/*            <div className="text-center"*/}
-                      {/*                style={{ lineHeight: '15px', width: '90%', marginLeft: '5%'}}>*/}
-                      {/*              Información relativa sobre Reglamentos y documentación académica de la UAP  */}
-                      {/*            </div>*/}
-                      {/*        </div>*/}
-                      {/*    </div>*/}
-                      {/*</Link>*/}
-
                       <Link to="estados">
                           <div className="font-sans font-bold text-center align-middle "
                                style={{
@@ -175,7 +111,8 @@ useEffect(()=> {
                                   color: 'rgb(63,13,175)',
                                   marginTop: '8px',
                                   fontFamily: 'Bebas Neue',
-                                  letterSpacing: '1.0px'
+                                  letterSpacing: '1.0px',
+                                  lineHeight: '20px'
                               }}>INFORMACIÓN FINANCIERA
                               </div>
                               <div style={{
@@ -207,7 +144,8 @@ useEffect(()=> {
                                   color: 'rgb(63,13,175)',
                                   marginTop: '8px',
                                   fontFamily: 'Bebas Neue',
-                                  letterSpacing: '1.0px'
+                                  letterSpacing: '1.0px',
+                                  lineHeight: '20px'
                               }}>BECAS Y CRÉDITOS EDUCATIVOS
                               </div>
                               <div style={{
@@ -224,37 +162,6 @@ useEffect(()=> {
                           </div>
                       </Link>
 
-                      {/*<Link to="inversiones">*/}
-                      {/*    <div className="font-sans font-bold text-center align-middle "*/}
-                      {/*         style={{*/}
-                      {/*             backgroundColor: 'white',*/}
-                      {/*             height: '100%',*/}
-                      {/*             margin: '14px',*/}
-                      {/*             borderTop: '4px solid rgb(139 92 246)',*/}
-                      {/*             fontSize: '24px',*/}
-                      {/*             marginBottom: '40px'*/}
-                      {/*         }}*/}
-                      {/*    >*/}
-                      {/*        <div style={{*/}
-                      {/*            color: 'rgb(63,13,175)',*/}
-                      {/*            marginTop: '8px',*/}
-                      {/*            fontFamily: 'Bebas Neue',*/}
-                      {/*            letterSpacing: '1.0px'*/}
-                      {/*        }}>INVERSIONES*/}
-                      {/*        </div>*/}
-                      {/*        <div style={{*/}
-                      {/*            marginTop: '7px',*/}
-                      {/*            fontFamily: 'Source Sans Pro',*/}
-                      {/*            letterSpacing: '-.2px',*/}
-                      {/*            fontSize: '15px'*/}
-                      {/*        }}>*/}
-                      {/*            <div className="text-center"*/}
-                      {/*                style={{ lineHeight: '15px', width: '90%', marginLeft: '5%'}}>*/}
-                      {/*              Información sobre Inversiones de la UAP  */}
-                      {/*            </div>*/}
-                      {/*        </div>*/}
-                      {/*    </div>*/}
-                      {/*</Link>*/}
 
                       <Link to="proyectos">
                           <div className="font-sans font-bold text-center align-middle "
@@ -271,7 +178,8 @@ useEffect(()=> {
                                   color: 'rgb(63,13,175)',
                                   marginTop: '8px',
                                   fontFamily: 'Bebas Neue',
-                                  letterSpacing: '1.0px'
+                                  letterSpacing: '1.0px',
+                                  lineHeight: '20px'
                               }}>INVESTIGACIÓN
                               </div>
                               <div style={{
@@ -304,7 +212,8 @@ useEffect(()=> {
                                   color: 'rgb(63,13,175)',
                                   marginTop: '8px',
                                   fontFamily: 'Bebas Neue',
-                                  letterSpacing: '1.0px'
+                                  letterSpacing: '1.0px',
+                                  lineHeight: '20px'
                               }}>TARIFAS
                               </div>
                               <div style={{
@@ -337,7 +246,8 @@ useEffect(()=> {
                                   color: 'rgb(63,13,175)',
                                   marginTop: '8px',
                                   fontFamily: 'Bebas Neue',
-                                  letterSpacing: '1.0px'
+                                  letterSpacing: '1.0px',
+                                  lineHeight: '20px'
                               }}>ADMISIÓN
                               </div>
                               <div style={{
@@ -369,7 +279,8 @@ useEffect(()=> {
                                   color: 'rgb(63,13,175)',
                                   marginTop: '8px',
                                   fontFamily: 'Bebas Neue',
-                                  letterSpacing: '1.0px'
+                                  letterSpacing: '1.0px',
+                                  lineHeight: '20px'
                               }}>INFORMACIÓN ACADÉMICA
                               </div>
                               <div style={{
@@ -402,7 +313,8 @@ useEffect(()=> {
                                   color: 'rgb(63,13,175)',
                                   marginTop: '8px',
                                   fontFamily: 'Bebas Neue',
-                                  letterSpacing: '1.0px'
+                                  letterSpacing: '1.0px',
+                                  lineHeight: '20px'
                               }}>PLANA DOCENTE
                               </div>
                               <div style={{
@@ -420,38 +332,6 @@ useEffect(()=> {
                       </Link>
 
 
-                      {/*<Link to="investigacion">*/}
-                      {/*    <div className="font-sans font-bold text-center align-middle "*/}
-                      {/*         style={{*/}
-                      {/*             backgroundColor: 'white',*/}
-                      {/*             height: '100%',*/}
-                      {/*             margin: '14px',*/}
-                      {/*             borderTop: '4px solid rgb(139 92 246)',*/}
-                      {/*             fontSize: '24px',*/}
-                      {/*             marginBottom: '40px'*/}
-                      {/*         }}*/}
-                      {/*    >*/}
-                      {/*        <div style={{*/}
-                      {/*            color: 'rgb(63,13,175)',*/}
-                      {/*            marginTop: '8px',*/}
-                      {/*            fontFamily: 'Bebas Neue',*/}
-                      {/*            letterSpacing: '1.0px'*/}
-                      {/*        }}>INVESTIGACIÓN*/}
-                      {/*        </div>*/}
-                      {/*        <div style={{*/}
-                      {/*            marginTop: '7px',*/}
-                      {/*            fontFamily: 'Source Sans Pro',*/}
-                      {/*            letterSpacing: '-.2px',*/}
-                      {/*            fontSize: '15px'*/}
-                      {/*        }}>*/}
-                      {/*            <div className="text-center"*/}
-                      {/*                style={{ lineHeight: '15px', width: '90%', marginLeft: '5%'}}>*/}
-                      {/*              Información sobre el campo de investigación de la UAP  */}
-                      {/*            </div>*/}
-                      {/*        </div>*/}
-                      {/*    </div>*/}
-                      {/*</Link>*/}
-
                       <Link to="reglamentos">
                           <div className="font-sans font-bold text-center align-middle "
                                style={{
@@ -467,7 +347,8 @@ useEffect(()=> {
                                   color: 'rgb(63,13,175)',
                                   marginTop: '8px',
                                   fontFamily: 'Bebas Neue',
-                                  letterSpacing: '1.0px'
+                                  letterSpacing: '1.0px',
+                                  lineHeight: '20px'
                               }}>REGLAMENTOS
                               </div>
                               <div style={{
@@ -493,8 +374,8 @@ useEffect(()=> {
                           marginTop: '40px',
                           fontStyle: 'bold',
                           fontFamily: 'Source Sans Pro',
-                          letterSpacing: '-1.9px'
-                      }}>PROYECTO DE LICENCIAMIENTO
+                          letterSpacing: '-1.9px',
+lineHeight: '32px'    }}>PROYECTO DE LICENCIAMIENTO
                       </div>
                   </div>
                   <div className="grid grid-cols-1 gap-10 sm:grid-cols-2 md:grid-cols-3 mx-auto"
@@ -516,7 +397,8 @@ useEffect(()=> {
                                       color: 'rgb(63,13,175)',
                                       marginTop: '8px',
                                       fontFamily: 'Bebas Neue',
-                                      letterSpacing: '1.0px'
+                                      letterSpacing: '1.0px',
+                                      lineHeight: '20px'
                                   }}>MODELO EDUCATIVO
                                   </div>
                                   <div style={{
@@ -548,7 +430,8 @@ useEffect(()=> {
                                   color: 'rgb(63,13,175)',
                                   marginTop: '8px',
                                   fontFamily: 'Bebas Neue',
-                                  letterSpacing: '1.0px'
+                                  letterSpacing: '1.0px',
+                                  lineHeight: '20px'
                               }}>PLAN ESTRATÉGICO INSTITUCIONAL
                               </div>
                               <div style={{
@@ -579,7 +462,8 @@ useEffect(()=> {
                                   color: 'rgb(63,13,175)',
                                   marginTop: '8px',
                                   fontFamily: 'Bebas Neue',
-                                  letterSpacing: '1.0px'
+                                  letterSpacing: '1.0px',
+                                  lineHeight: '20px'
                               }}>PLAN OPERATIVO INSTITUCIONAL
                               </div>
                               <div style={{

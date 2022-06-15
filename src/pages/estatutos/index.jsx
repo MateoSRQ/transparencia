@@ -45,8 +45,8 @@ function Index() {
                             marginTop: '40px',
                             fontStyle: 'bold',
                             fontFamily: 'Source Sans Pro',
-                            letterSpacing: '-1.9px'
-                        }}>ESTATUTOS
+                            letterSpacing: '-1.9px',
+lineHeight: '32px'      }}>ESTATUTOS
                         </h1>
                     </div>
                     <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
@@ -85,35 +85,6 @@ function Index() {
                             </div>
                         </a>
 
-                        {/*<div >*/}
-                        {/*    <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>*/}
-                        {/*    <div style={{*/}
-                        {/*        color: 'rgb(63,13,175)',*/}
-                        {/*        marginTop: '8px',*/}
-                        {/*        fontFamily: 'Bebas Neue',*/}
-                        {/*        fontSize: '20px',*/}
-                        {/*        letterSpacing: '1.0px',*/}
-                        {/*        position: 'relative',*/}
-                        {/*        top: '-40px',*/}
-                        {/*        left: '70px'*/}
-                        {/*    }}>REGLAMENTO DE GRADOS Y TÍTULOS*/}
-                        {/*    </div>*/}
-                        {/*</div>*/}
-                        {/*<div >*/}
-                        {/*    <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>*/}
-                        {/*    <div style={{*/}
-                        {/*        color: 'rgb(63,13,175)',*/}
-                        {/*        marginTop: '8px',*/}
-                        {/*        fontFamily: 'Bebas Neue',*/}
-                        {/*        fontSize: '20px',*/}
-                        {/*        letterSpacing: '1.0px',*/}
-                        {/*        position: 'relative',*/}
-                        {/*        top: '-40px',*/}
-                        {/*        left: '70px'*/}
-                        {/*    }}>REGLAMENTO DE INVESTIGACIÓN*/}
-                        {/*    </div>*/}
-                        {/*</div>*/}
-
                     </div>
 
                     <div className="font-sans font-bolder text-center align-middle "
@@ -124,8 +95,8 @@ function Index() {
                             marginTop: '40px',
                             fontStyle: 'bold',
                             fontFamily: 'Source Sans Pro',
-                            letterSpacing: '-1.9px'
-                        }}>REGLAMENTOS
+                            letterSpacing: '-1.9px',
+lineHeight: '32px'      }}>REGLAMENTO GENERAL
                         </h1>
                     </div>
 
@@ -156,8 +127,8 @@ function Index() {
                             marginTop: '40px',
                             fontStyle: 'bold',
                             fontFamily: 'Source Sans Pro',
-                            letterSpacing: '-1.9px'
-                        }}>PLAN ESTRATÉGICO INSTITUCIONAL
+                            letterSpacing: '-1.9px',
+lineHeight: '32px'      }}>PLAN ESTRATÉGICO INSTITUCIONAL
                         </h1>
                     </div>
                     <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"

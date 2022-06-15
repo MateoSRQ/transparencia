@@ -37,8 +37,8 @@ useEffect(()=> {
                           marginTop: '40px',
                           fontStyle: 'bold',
                           fontFamily: 'Source Sans Pro',
-                          letterSpacing: '-1.9px'
-                      }}>PLAN ESTRATÉGICO INSTITUCIONAL
+                          letterSpacing: '-1.9px',
+lineHeight: '32px'    }}>PLAN ESTRATÉGICO INSTITUCIONAL
                       </h1>
                   </div>
                   <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"

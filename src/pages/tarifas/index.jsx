@@ -45,8 +45,8 @@ function Index() {
                             marginTop: '40px',
                             fontStyle: 'bold',
                             fontFamily: 'Source Sans Pro',
-                            letterSpacing: '-1.9px'
-                        }}>ESCALA DE PENSIONES
+                            letterSpacing: '-1.9px',
+lineHeight: '32px'      }}>ESCALA DE PENSIONES
                         </h1>
                     </div>
                     <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
@@ -76,8 +76,8 @@ function Index() {
                             marginTop: '40px',
                             fontStyle: 'bold',
                             fontFamily: 'Source Sans Pro',
-                            letterSpacing: '-1.9px'
-                        }}>TARIFARIO DE TRÁMITES
+                            letterSpacing: '-1.9px',
+lineHeight: '32px'      }}>TARIFARIO DE TRÁMITES
                         </h1>
                     </div>
                     <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
@@ -128,8 +128,8 @@ function Index() {
                             marginTop: '40px',
                             fontStyle: 'bold',
                             fontFamily: 'Source Sans Pro',
-                            letterSpacing: '-1.9px'
-                        }}>TARIFARIO DE GRADOS y TÍTULOS
+                            letterSpacing: '-1.9px',
+lineHeight: '32px'      }}>TARIFARIO DE GRADOS y TÍTULOS
                         </h1>
                     </div>
                     <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"

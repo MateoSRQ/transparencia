@@ -42,8 +42,8 @@ useEffect(()=> {
                           marginTop: '40px',
                           fontStyle: 'bold',
                           fontFamily: 'Source Sans Pro',
-                          letterSpacing: '-1.9px'
-                      }}>ACTAS DE DIRECTORIO
+                          letterSpacing: '-1.9px',
+lineHeight: '32px'    }}>ACTAS DE DIRECTORIO
                       </h1>
                   </div>
                   <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
@@ -74,8 +74,8 @@ useEffect(()=> {
                           marginTop: '40px',
                           fontStyle: 'bold',
                           fontFamily: 'Source Sans Pro',
-                          letterSpacing: '-1.9px'
-                      }}>RESOLUCIONES RECTORALES
+                          letterSpacing: '-1.9px',
+lineHeight: '32px'    }}>RESOLUCIONES RECTORALES
                       </h1>
                   </div>
                   <a href="assets/files/RES. N° 0684-2022 APROBAR LA MODIFICACION DEL REGLAMENTO GENERAL.pdf">

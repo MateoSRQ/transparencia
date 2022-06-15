@@ -37,8 +37,8 @@ useEffect(()=> {
                           marginTop: '40px',
                           fontStyle: 'bold',
                           fontFamily: 'Source Sans Pro',
-                          letterSpacing: '-1.9px'
-                      }}>RESOLUCIONES RECTORALES
+                          letterSpacing: '-1.9px',
+lineHeight: '32px'    }}>RESOLUCIONES RECTORALES
                       </h1>
                   </div>
 

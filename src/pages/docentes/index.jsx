@@ -37,8 +37,8 @@ useEffect(()=> {
                           marginTop: '40px',
                           fontStyle: 'bold',
                           fontFamily: 'Source Sans Pro',
-                          letterSpacing: '-1.9px'
-                      }}>PLANA DOCENTE
+                          letterSpacing: '-1.9px',
+lineHeight: '32px'    }}>PLANA DOCENTE
                       </h1>
                   </div>
                   <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
@@ -121,8 +121,8 @@ useEffect(()=> {
                           marginTop: '40px',
                           fontStyle: 'bold',
                           fontFamily: 'Source Sans Pro',
-                          letterSpacing: '-1.9px'
-                      }}>PLANA DE DOCENTES INVESTIGADORES
+                          letterSpacing: '-1.9px',
+lineHeight: '32px'    }}>PLANA DE DOCENTES INVESTIGADORES
                       </h1>
                   </div>
 
