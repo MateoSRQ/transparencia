@@ -424,70 +424,71 @@ function Index() {
 
                             </div>
                         </Link>
-                        {/*<Link to="pei">*/}
-                        {/*    <div className="font-sans font-bold text-center align-middle "*/}
-                        {/*         style={{*/}
-                        {/*             backgroundColor: 'white',*/}
-                        {/*             height: '100%',*/}
-                        {/*             margin: '14px',*/}
-                        {/*             borderTop: '4px solid rgb(139 92 246)',*/}
-                        {/*             fontSize: '24px',*/}
-                        {/*             marginBottom: '40px'*/}
-                        {/*         }}*/}
-                        {/*    >*/}
-                        {/*        <div style={{*/}
-                        {/*            color: 'rgb(63,13,175)',*/}
-                        {/*            marginTop: '8px',*/}
-                        {/*            fontFamily: 'Bebas Neue',*/}
-                        {/*            letterSpacing: '1.0px',*/}
-                        {/*            lineHeight: '20px'*/}
-                        {/*        }}>PLAN ESTRATÉGICO INSTITUCIONAL*/}
-                        {/*        </div>*/}
-                        {/*        <div style={{*/}
-                        {/*            marginTop: '7px',*/}
-                        {/*            fontFamily: 'Source Sans Pro',*/}
-                        {/*            letterSpacing: '-.2px',*/}
-                        {/*            fontSize: '15px'*/}
-                        {/*        }}>*/}
-                        {/*            <div className="text-center"*/}
-                        {/*                 style={{lineHeight: '15px', width: '90%', marginLeft: '5%'}}>*/}
-                        {/*                Información sobre el Plan Estratégico Institucional de la UAP*/}
-                        {/*            </div>*/}
-                        {/*        </div>*/}
-                        {/*    </div>*/}
-                        {/*</Link>*/}
-                        {/*<Link to="poi">*/}
-                        {/*    <div className="font-sans font-bold text-center align-middle "*/}
-                        {/*         style={{*/}
-                        {/*             backgroundColor: 'white',*/}
-                        {/*             height: '100%',*/}
-                        {/*             margin: '14px',*/}
-                        {/*             borderTop: '4px solid rgb(139 92 246)',*/}
-                        {/*             fontSize: '24px',*/}
-                        {/*             marginBottom: '40px'*/}
-                        {/*         }}*/}
-                        {/*    >*/}
-                        {/*        <div style={{*/}
-                        {/*            color: 'rgb(63,13,175)',*/}
-                        {/*            marginTop: '8px',*/}
-                        {/*            fontFamily: 'Bebas Neue',*/}
-                        {/*            letterSpacing: '1.0px',*/}
-                        {/*            lineHeight: '20px'*/}
-                        {/*        }}>PLAN OPERATIVO INSTITUCIONAL*/}
-                        {/*        </div>*/}
-                        {/*        <div style={{*/}
-                        {/*            marginTop: '7px',*/}
-                        {/*            fontFamily: 'Source Sans Pro',*/}
-                        {/*            letterSpacing: '-.2px',*/}
-                        {/*            fontSize: '15px'*/}
-                        {/*        }}>*/}
-                        {/*            <div className="text-center"*/}
-                        {/*                 style={{lineHeight: '15px', width: '90%', marginLeft: '5%'}}>*/}
-                        {/*                Información sobre el Plan Operativo Institucional de la UAP*/}
-                        {/*            </div>*/}
-                        {/*        </div>*/}
-                        {/*    </div>*/}
-                        {/*</Link>*/}
+                        <Link to="pei">
+                            <div className="font-sans font-bold text-center align-middle "
+                                 style={{
+                                     backgroundColor: 'white',
+                                     height: '100%',
+                                     margin: '14px',
+                                     borderTop: '4px solid rgb(139 92 246)',
+                                     fontSize: '24px',
+                                     marginBottom: '40px'
+                                 }}
+                            >
+                                <div style={{
+                                    color: 'rgb(63,13,175)',
+                                    marginTop: '8px',
+                                    fontFamily: 'Bebas Neue',
+                                    letterSpacing: '1.0px',
+                                    lineHeight: '20px'
+                                }}>PLAN ESTRATÉGICO INSTITUCIONAL
+                                </div>
+                                <div style={{
+                                    marginTop: '7px',
+                                    fontFamily: 'Source Sans Pro',
+                                    letterSpacing: '-.2px',
+                                    fontSize: '15px'
+                                }}>
+                                    <div className="text-center"
+                                         style={{lineHeight: '15px', width: '90%', marginLeft: '5%'}}>
+                                        Información sobre el Plan Estratégico Institucional de la UAP
+                                    </div>
+                                </div>
+                            </div>
+                        </Link>
+                        <Link to="poi">
+                            <div className="font-sans font-bold text-center align-middle "
+                                 style={{
+                                     backgroundColor: 'white',
+                                     height: '100%',
+                                     margin: '14px',
+                                     borderTop: '4px solid rgb(139 92 246)',
+                                     fontSize: '24px',
+                                     marginBottom: '40px'
+                                 }}
+                            >
+                                <div style={{
+                                    color: 'rgb(63,13,175)',
+                                    marginTop: '8px',
+                                    fontFamily: 'Bebas Neue',
+                                    letterSpacing: '1.0px',
+                                    lineHeight: '20px'
+                                }}>PLAN OPERATIVO INSTITUCIONAL
+                                </div>
+                                <div style={{
+                                    marginTop: '7px',
+                                    fontFamily: 'Source Sans Pro',
+                                    letterSpacing: '-.2px',
+                                    fontSize: '15px'
+                                }}>
+                                    <div className="text-center"
+                                         style={{lineHeight: '15px', width: '90%', marginLeft: '5%'}}>
+                                        Información sobre el Plan Operativo Institucional de la UAP
+                                    </div>
+                                </div>
+                            </div>
+
+                        </Link>
 
                     </div>
                 </div>
