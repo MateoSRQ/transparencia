@@ -261,7 +261,7 @@ function Index() {
                                 }}>
                                     <div className="text-center"
                                          style={{lineHeight: '15px', width: '90%', marginLeft: '5%'}}>
-                                        Información sobre los alumnos matriculados y egresados en cada periodo académico
+                                        Postulantes, ingresantes y matriculados por programa de estudio
                                     </div>
                                 </div>
                             </div>

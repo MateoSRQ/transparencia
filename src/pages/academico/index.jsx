@@ -54,6 +54,87 @@ function Index() {
 
                     <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
                          style={{maxWidth: '600px', marginTop: '-30px', position: 'relative', margin: '0 auto'}}>
+                        <a href="assets/files/MATRICULADOS 2020-1.pdf">
+                            <div>
+                                <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
+                                <div style={{
+                                    color: 'rgb(63,13,175)',
+                                    marginTop: '8px',
+                                    fontFamily: 'Bebas Neue',
+                                    fontSize: '20px',
+                                    letterSpacing: '1.0px',
+                                    position: 'relative',
+                                    top: '-40px',
+                                    left: '70px'
+                                }}>NÚMERO DE MATRICULADOS 2020-1
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+
+                    <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
+                         style={{maxWidth: '600px', marginTop: '-30px', position: 'relative', margin: '0 auto'}}>
+                        <a href="assets/files/MATRICULADOS 2020-2.pdf">
+                            <div>
+                                <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
+                                <div style={{
+                                    color: 'rgb(63,13,175)',
+                                    marginTop: '8px',
+                                    fontFamily: 'Bebas Neue',
+                                    fontSize: '20px',
+                                    letterSpacing: '1.0px',
+                                    position: 'relative',
+                                    top: '-40px',
+                                    left: '70px'
+                                }}>NÚMERO DE MATRICULADOS 2020-2
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+
+                    <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
+                         style={{maxWidth: '600px', marginTop: '-30px', position: 'relative', margin: '0 auto'}}>
+                        <a href="assets/files/MATRICULADOS 2021-1.pdf">
+                            <div>
+                                <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
+                                <div style={{
+                                    color: 'rgb(63,13,175)',
+                                    marginTop: '8px',
+                                    fontFamily: 'Bebas Neue',
+                                    fontSize: '20px',
+                                    letterSpacing: '1.0px',
+                                    position: 'relative',
+                                    top: '-40px',
+                                    left: '70px'
+                                }}>NÚMERO DE MATRICULADOS 2021-1
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+
+                    <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
+                         style={{maxWidth: '600px', marginTop: '-30px', position: 'relative', margin: '0 auto'}}>
+                        <a href="assets/files/MATRICULADOS 2021-2.pdf">
+                            <div>
+                                <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
+                                <div style={{
+                                    color: 'rgb(63,13,175)',
+                                    marginTop: '8px',
+                                    fontFamily: 'Bebas Neue',
+                                    fontSize: '20px',
+                                    letterSpacing: '1.0px',
+                                    position: 'relative',
+                                    top: '-40px',
+                                    left: '70px'
+                                }}>NÚMERO DE MATRICULADOS 2021-2
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+
+
+                    <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
+                         style={{maxWidth: '600px', marginTop: '-30px', position: 'relative', margin: '0 auto'}}>
                         <a href="assets/files/NUMERO_MATRICULADOS_2022-1.pdf">
                             <div>
                                 <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
@@ -88,7 +169,7 @@ function Index() {
 
                     <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
                          style={{maxWidth: '600px', marginTop: '-30px', position: 'relative', margin: '0 auto'}}>
-                        <a href="assets/files/NUMERO_ALUMNOS_EGRESADOS_FAC_PRO2021-2.pdf">
+                        <a href="assets/files/EGRESADOS 2020-1.pdf">
                             <div>
                                 <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
                                 <div style={{
@@ -100,7 +181,67 @@ function Index() {
                                     position: 'relative',
                                     top: '-40px',
                                     left: '70px'
-                                }}>NÚMERO DE ALUMNOS EGRESADOS POR FACULTAD Y PROGRAMA DE ESTUDIO 2021-2
+                                }}>NÚMERO DE ALUMNOS EGRESADOS 2020-1
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+
+                    <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
+                         style={{maxWidth: '600px', marginTop: '-30px', position: 'relative', margin: '0 auto'}}>
+                        <a href="assets/files/EGRESADOS 2020-2.pdf">
+                            <div>
+                                <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
+                                <div style={{
+                                    color: 'rgb(63,13,175)',
+                                    marginTop: '8px',
+                                    fontFamily: 'Bebas Neue',
+                                    fontSize: '20px',
+                                    letterSpacing: '1.0px',
+                                    position: 'relative',
+                                    top: '-40px',
+                                    left: '70px'
+                                }}>NÚMERO DE ALUMNOS EGRESADOS 2020-2
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+
+                    <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
+                         style={{maxWidth: '600px', marginTop: '-30px', position: 'relative', margin: '0 auto'}}>
+                        <a href="assets/files/EGRESADOS 2021-1.pdf">
+                            <div>
+                                <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
+                                <div style={{
+                                    color: 'rgb(63,13,175)',
+                                    marginTop: '8px',
+                                    fontFamily: 'Bebas Neue',
+                                    fontSize: '20px',
+                                    letterSpacing: '1.0px',
+                                    position: 'relative',
+                                    top: '-40px',
+                                    left: '70px'
+                                }}>NÚMERO DE ALUMNOS EGRESADOS 2021-1
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+
+                    <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
+                         style={{maxWidth: '600px', marginTop: '-30px', position: 'relative', margin: '0 auto'}}>
+                        <a href="assets/files/EGRESADOS 2021-2.pdf">
+                            <div>
+                                <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
+                                <div style={{
+                                    color: 'rgb(63,13,175)',
+                                    marginTop: '8px',
+                                    fontFamily: 'Bebas Neue',
+                                    fontSize: '20px',
+                                    letterSpacing: '1.0px',
+                                    position: 'relative',
+                                    top: '-40px',
+                                    left: '70px'
+                                }}>NÚMERO DE ALUMNOS EGRESADOS 2021-2
                                 </div>
                             </div>
                         </a>

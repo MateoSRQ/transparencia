@@ -47,29 +47,77 @@ function Index() {
                             fontFamily: 'Source Sans Pro',
                             letterSpacing: '-1.9px',
                             lineHeight: '40px'
-                        }}>ADMISIÓN
+                        }}>POSTULANTES POR PROGRAMA DE ESTUDIO
                         </h1>
                     </div>
 
-                    <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
-                         style={{maxWidth: '600px', marginTop: '-30px', position: 'relative', margin: '0 auto'}}>
-                        <a href="">
-                            <div>
-                                {/*<img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>*/}
-                                <div style={{
-                                    color: 'rgb(63,13,175)',
-                                    marginTop: '8px',
-                                    fontFamily: 'Bebas Neue',
-                                    fontSize: '30px',
-                                    letterSpacing: '1.0px',
-                                    position: 'relative',
-                                    top: '-20px',
-                                    // left: '70px',
-                                    textAlign: 'center'
-                                }}>NO SE HAN CONSIGNADO DOCUMENTOS
-                                </div>
-                            </div>
-                        </a>
+                    {/*<div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"*/}
+                    {/*     style={{maxWidth: '600px', marginTop: '-30px', position: 'relative', margin: '0 auto'}}>*/}
+                    {/*    <a href="">*/}
+                    {/*        <div>*/}
+                    {/*            /!*<img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>*!/*/}
+                    {/*            <div style={{*/}
+                    {/*                color: 'rgb(63,13,175)',*/}
+                    {/*                marginTop: '8px',*/}
+                    {/*                fontFamily: 'Bebas Neue',*/}
+                    {/*                fontSize: '30px',*/}
+                    {/*                letterSpacing: '1.0px',*/}
+                    {/*                position: 'relative',*/}
+                    {/*                top: '-20px',*/}
+                    {/*                // left: '70px',*/}
+                    {/*                textAlign: 'center'*/}
+                    {/*            }}>NO SE HAN CONSIGNADO DOCUMENTOS*/}
+                    {/*            </div>*/}
+                    {/*        </div>*/}
+                    {/*    </a>*/}
+                    {/*</div>*/}
+
+
+                    <div className="font-sans font-bolder text-center align-middle "
+                         style={{height: '105px', fontSize: '42px', margin: '0 auto'}}
+                    >
+                        <h1 style={{
+                            marginTop: '40px',
+                            fontStyle: 'bold',
+                            fontFamily: 'Source Sans Pro',
+                            letterSpacing: '-1.9px',
+                            lineHeight: '40px'
+                        }}>INGRESANTES POR PROGRAMA DE ESTUDIO
+                        </h1>
+                    </div>
+
+                    {/*<div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"*/}
+                    {/*     style={{maxWidth: '600px', marginTop: '-30px', position: 'relative', margin: '0 auto'}}>*/}
+                    {/*    <a href="">*/}
+                    {/*        <div>*/}
+                    {/*            /!*<img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>*!/*/}
+                    {/*            <div style={{*/}
+                    {/*                color: 'rgb(63,13,175)',*/}
+                    {/*                marginTop: '8px',*/}
+                    {/*                fontFamily: 'Bebas Neue',*/}
+                    {/*                fontSize: '30px',*/}
+                    {/*                letterSpacing: '1.0px',*/}
+                    {/*                position: 'relative',*/}
+                    {/*                top: '-20px',*/}
+                    {/*                // left: '70px',*/}
+                    {/*                textAlign: 'center'*/}
+                    {/*            }}>NO SE HAN CONSIGNADO DOCUMENTOS*/}
+                    {/*            </div>*/}
+                    {/*        </div>*/}
+                    {/*    </a>*/}
+                    {/*</div>*/}
+
+                    <div className="font-sans font-bolder text-center align-middle "
+                         style={{height: '105px', fontSize: '42px', margin: '0 auto'}}
+                    >
+                        <h1 style={{
+                            marginTop: '40px',
+                            fontStyle: 'bold',
+                            fontFamily: 'Source Sans Pro',
+                            letterSpacing: '-1.9px',
+                            lineHeight: '40px'
+                        }}>MATRICULADOS POR PROGRAMA DE ESTUDIO
+                        </h1>
                     </div>
 
 
