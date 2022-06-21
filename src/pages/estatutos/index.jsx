@@ -46,7 +46,8 @@ function Index() {
                             fontStyle: 'bold',
                             fontFamily: 'Source Sans Pro',
                             letterSpacing: '-1.9px',
-lineHeight: '32px'      }}>ESTATUTOS
+                            lineHeight: '32px'
+                        }}>ESTATUTOS
                         </h1>
                     </div>
                     <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
@@ -96,13 +97,14 @@ lineHeight: '32px'      }}>ESTATUTOS
                             fontStyle: 'bold',
                             fontFamily: 'Source Sans Pro',
                             letterSpacing: '-1.9px',
-lineHeight: '32px'      }}>REGLAMENTO GENERAL
+                            lineHeight: '32px'
+                        }}>REGLAMENTO GENERAL
                         </h1>
                     </div>
 
                     <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
                          style={{maxWidth: '600px', marginTop: '-30px', position: 'relative', margin: '0 auto'}}>
-                        <a href="assets/files/Reglamento General de la Universidad.pdf">
+                        <a href="assets/files/Reglamento General de la Universidad - 20.06.22.pdf">
                             <div>
                                 <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
                                 <div style={{
@@ -128,7 +130,8 @@ lineHeight: '32px'      }}>REGLAMENTO GENERAL
                             fontStyle: 'bold',
                             fontFamily: 'Source Sans Pro',
                             letterSpacing: '-1.9px',
-lineHeight: '32px'      }}>PLAN ESTRATÉGICO INSTITUCIONAL
+                            lineHeight: '32px'
+                        }}>PLAN ESTRATÉGICO INSTITUCIONAL
                         </h1>
                     </div>
                     <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
