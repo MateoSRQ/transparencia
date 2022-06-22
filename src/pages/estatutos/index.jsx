@@ -136,7 +136,7 @@ function Index() {
                     </div>
                     <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
                          style={{maxWidth: '600px', marginTop: '0px', position: 'relative', margin: '0 auto'}}>
-                        <a href="assets/files/PEI_2022-2024.pdf">
+                        <a href="assets/files/PLAN ESTRATÉGICO INSTITUCIONAL 2022-2024_.pdf">
                             <div>
                                 <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
                                 <div style={{
@@ -148,7 +148,7 @@ function Index() {
                                     position: 'relative',
                                     top: '-40px',
                                     left: '70px'
-                                }}>PLAN ESTRATÉGICO INSTITUCIONAL MULTIANUAL 2022-2024
+                                }}>PLAN ESTRATÉGICO INSTITUCIONAL 2022-2024
                                 </div>
                             </div>
                         </a>
