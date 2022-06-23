@@ -52,7 +52,7 @@ function Index() {
                     <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
                          style={{maxWidth: '600px', marginTop: '-30px', position: 'relative', margin: '0 auto'}}>
                         <div>
-                            <a href='assets/files/PLANA DOCENTE - FACULTAD DE MEDICINA HUMANA Y CIENCIAS DE LA SALUD.pdf'>
+                            <a href='assets/files/MEDICINA.pdf'>
                                 <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
                                 <div style={{
                                     color: 'rgb(63,13,175)',
@@ -68,7 +68,7 @@ function Index() {
                             </a>
                         </div>
                         <div>
-                            <a href='assets/files/PLANA DOCENTE - FACULTAD DE INGENIERÍA y ARQUITECTURA.pdf'>
+                            <a href='assets/files/FIA.pdf'>
                                 <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
                                 <div style={{
                                     color: 'rgb(63,13,175)',
@@ -84,7 +84,7 @@ function Index() {
                             </a>
                         </div>
                         <div>
-                            <a href='assets/files/PLANA DOCENTE - FACULTAD DE DERECHO Y CIENCIAS POLÍTICAS.pdf.pdf'>
+                            <a href='assets/files/DERECHO.pdf'>
                                 <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
                                 <div style={{
                                     color: 'rgb(63,13,175)',
@@ -100,7 +100,7 @@ function Index() {
                             </a>
                         </div>
                         <div>
-                            <a href='assets/files/PLANA DOCENTE - FACULTAD CIENCIAS EMPRESARIALES Y EDUCACIÓN.pdf'>
+                            <a href='assets/files/EMPRESARIALES.pdf'>
                                 <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
                                 <div style={{
                                     color: 'rgb(63,13,175)',
@@ -136,7 +136,7 @@ function Index() {
 
                     <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
                          style={{maxWidth: '600px', marginTop: '-30px', position: 'relative', margin: '0 auto'}}>
-                        <a href="assets/files/INVESTIGADORES.pdf">
+                        <a href="assets/files/INVESTIGACIÓN.pdf">
                             <div>
                                 <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
                                 <div style={{
