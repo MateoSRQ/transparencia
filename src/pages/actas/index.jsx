@@ -242,6 +242,27 @@ function Index() {
                         </div>
                     </a>
 
+                    <a href="assets/files/RESOLUCION N° 716-2022 UAP.pdf">
+                        <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
+                             style={{maxWidth: '600px', marginTop: '0px', position: 'relative', margin: '0 auto'}}>
+                            <div>
+                                <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
+                                <div style={{
+                                    color: 'rgb(63,13,175)',
+                                    marginTop: '-12px',
+                                    fontFamily: 'Bebas Neue',
+                                    fontSize: '20px',
+                                    letterSpacing: '1.0px',
+                                    position: 'relative',
+                                    lineHeight: '22px',
+                                    top: '-40px',
+                                    left: '70px'
+                                }}>RES N° 716-2022<br/>SE APRUEBA LA MODIFICACIÓN, EL CAMBIO DE DENOMINACIÓN Y APROBACIÓN DE DOCUMENTOS NORMATIVOS Y DE GESTIÓN
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+
 
                     <a href="assets/files/RESOLUCION N° 0717-2022-R-UAP.pdf">
                         <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
