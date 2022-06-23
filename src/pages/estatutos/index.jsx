@@ -10,8 +10,7 @@ function Index() {
         console.log('xxx')
         window.scrollTo(0, 0)
     }, [])
-    return (
-        <>
+    return (<>
             <div className="flex justify-center bg-neutral-200 min-h-full" style={{minHeight: '1500px'}}>
                 <div className="container mx-auto">
                     <img src="/assets/images/BANNER TRANSPARENCIA.jpg" alt="banner"/>
@@ -154,9 +153,40 @@ function Index() {
                         </a>
                     </div>
 
+                    <div className="font-sans font-bolder text-center align-middle "
+                         style={{height: '105px', fontSize: '42px', margin: '0 auto'}}
+                    >
+                        <h1 style={{
+                            marginTop: '40px',
+                            fontStyle: 'bold',
+                            fontFamily: 'Source Sans Pro',
+                            letterSpacing: '-1.9px',
+                            lineHeight: '32px'
+                        }}>PLAN OPERATIVO INSTITUCIONAL
+                        </h1>
+                    </div>
+                    <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto" style={{maxWidth: '600px', marginTop: '0px', position: 'relative', margin: '0 auto'}}>
+                        <a href="assets/files/Plan Operativo Institucional Multianual 2022-2024.pdf">
+                            <div>
+                                <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
+                                <div style={{
+                                    color: 'rgb(63,13,175)',
+                                    marginTop: '8px',
+                                    fontFamily: 'Bebas Neue',
+                                    fontSize: '20px',
+                                    letterSpacing: '1.0px',
+                                    position: 'relative',
+                                    top: '-40px',
+                                    left: '70px'
+                                }}>
+                                    PLAN OPERATIVO INSTITUCIONAL MULTIANUAL 2022-2024
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+
+
                 </div>
-
-
             </div>
 
 
@@ -176,8 +206,7 @@ function Index() {
                         <img src="assets/images/logo_uap.png"
                              style={{width: "70%", maxWidth: '300px', margin: "0 auto", marginTop: '20px'}}/>
                         <div style={{
-                            marginBottom: '10px',
-                            marginTop: '20px',
+                            marginBottom: '10px', marginTop: '20px',
                         }}
                         >
                             <div>Central telefónica (+51)(01)500-9007</div>
@@ -186,8 +215,7 @@ function Index() {
                     </div>
                 </div>
             </div>
-        </>
-    );
+        </>);
 }
 
 export default Index;

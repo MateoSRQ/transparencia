@@ -49,24 +49,26 @@ function Index() {
                         }}>MODELO EDUCATIVO
                         </h1>
                     </div>
-                    {/*<div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"*/}
-                    {/*     style={{maxWidth: '600px', marginTop: '0px', position: 'relative', margin: '0 auto'}}>*/}
-                    {/*    <div>*/}
-                    {/*        <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>*/}
-                    {/*        <div style={{*/}
-                    {/*            color: 'rgb(63,13,175)',*/}
-                    {/*            marginTop: '8px',*/}
-                    {/*            fontFamily: 'Bebas Neue',*/}
-                    {/*            fontSize: '20px',*/}
-                    {/*            letterSpacing: '1.0px',*/}
-                    {/*            position: 'relative',*/}
-                    {/*            top: '-40px',*/}
-                    {/*            left: '70px'*/}
-                    {/*        }}>MODELO EDUCATIVO*/}
-                    {/*        </div>*/}
-                    {/*    </div>*/}
-
-                    {/*</div>*/}
+                    <a href="assets/files/MODELO EDUCATIVO UNIVERSIDAD ALAS PERUANAS.pdf">
+                        <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
+                             style={{maxWidth: '600px', marginTop: '0px', position: 'relative', margin: '0 auto'}}>
+                            <div>
+                                <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
+                                <div style={{
+                                    color: 'rgb(63,13,175)',
+                                    marginTop: '-0px',
+                                    fontFamily: 'Bebas Neue',
+                                    fontSize: '20px',
+                                    letterSpacing: '1.0px',
+                                    position: 'relative',
+                                    lineHeight: '22px',
+                                    top: '-40px',
+                                    left: '70px'
+                                }}>MODELO EDUCATIVO UNIVERSIDAD ALAS PERUANAS
+                                </div>
+                            </div>
+                        </div>
+                    </a>
 
 
                 </div>

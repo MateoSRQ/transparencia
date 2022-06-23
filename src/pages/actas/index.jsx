@@ -90,6 +90,41 @@ function Index() {
                             </a>
                         </div>
 
+                        <div>
+                            <a href="assets/files/SESIÓN ORDINARIA DE DIRECTORIO N° 015– 2022.V.pdf">
+                                <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
+                                <div style={{
+                                    color: 'rgb(63,13,175)',
+                                    marginTop: '8px',
+                                    fontFamily: 'Bebas Neue',
+                                    fontSize: '20px',
+                                    letterSpacing: '1.0px',
+                                    position: 'relative',
+                                    top: '-40px',
+                                    left: '70px'
+                                }}>
+                                    SESIÓN ORDINARIA DE DIRECTORIO N° 015– 2022.
+                                </div>
+                            </a>
+                        </div>
+                        <div>
+                            <a href="assets/files/SESIÓN ORDINARIA DE DIRECTORIO N° 017– 2022.V.pdf">
+                                <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
+                                <div style={{
+                                    color: 'rgb(63,13,175)',
+                                    marginTop: '8px',
+                                    fontFamily: 'Bebas Neue',
+                                    fontSize: '20px',
+                                    letterSpacing: '1.0px',
+                                    position: 'relative',
+                                    top: '-40px',
+                                    left: '70px'
+                                }}>
+                                    SESIÓN ORDINARIA DE DIRECTORIO N° 017– 2022.
+                                </div>
+                            </a>
+                        </div>
+
                     </div>
                     <div className="font-sans font-bolder text-center align-middle "
                          style={{height: '105px', fontSize: '42px', margin: '0 auto'}}
@@ -350,6 +385,28 @@ function Index() {
                             </div>
                         </div>
                     </a>
+
+                    <a href="assets/files/RESOLUCION N° 783-2022 APROBAR LA MODIFICACION DEL MODELO EDUCATIVO.pdf">
+                        <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
+                             style={{maxWidth: '600px', marginTop: '0px', position: 'relative', margin: '0 auto'}}>
+                            <div>
+                                <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
+                                <div style={{
+                                    color: 'rgb(63,13,175)',
+                                    marginTop: '-0px',
+                                    fontFamily: 'Bebas Neue',
+                                    fontSize: '20px',
+                                    letterSpacing: '1.0px',
+                                    position: 'relative',
+                                    lineHeight: '22px',
+                                    top: '-40px',
+                                    left: '70px'
+                                }}>RES N° 0783-2022<br/>APROBAR LA MODIFICACIÓN DEL MODELO EDUCATIVO
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+
                     <a href="assets/files/RESOLUCION N° 784-2022 APROBAR LA MODIFICACION DEL REGLAMENTO GENERAL.pdf">
                         <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
                              style={{maxWidth: '600px', marginTop: '0px', position: 'relative', margin: '0 auto'}}>
