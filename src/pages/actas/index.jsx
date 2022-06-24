@@ -257,7 +257,8 @@ function Index() {
                                     lineHeight: '22px',
                                     top: '-40px',
                                     left: '70px'
-                                }}>RES N° 716-2022<br/>SE APRUEBA LA MODIFICACIÓN, EL CAMBIO DE DENOMINACIÓN Y APROBACIÓN DE DOCUMENTOS NORMATIVOS Y DE GESTIÓN
+                                }}>RES N° 716-2022<br/>SE APRUEBA LA MODIFICACIÓN, EL CAMBIO DE DENOMINACIÓN Y
+                                    APROBACIÓN DE DOCUMENTOS NORMATIVOS Y DE GESTIÓN
                                 </div>
                             </div>
                         </div>
@@ -279,7 +280,8 @@ function Index() {
                                     lineHeight: '22px',
                                     top: '-40px',
                                     left: '70px'
-                                }}>RES N° 717-2022<br/>APROBAR LA MODIFICACION DEL PLAN ESTRATÉGICO INSTITUCIONAL 2022-2024
+                                }}>RES N° 717-2022<br/>APROBAR LA MODIFICACION DEL PLAN ESTRATÉGICO INSTITUCIONAL
+                                    2022-2024
                                 </div>
                             </div>
                         </div>
@@ -300,7 +302,8 @@ function Index() {
                                     lineHeight: '22px',
                                     top: '-40px',
                                     left: '70px'
-                                }}>RES N° 718-2022<br/>APROBAR LA MODIFICACION DEL PLAN OPERATIVO INSTITUCIONAL MULTIANUAL 2022-2024
+                                }}>RES N° 718-2022<br/>APROBAR LA MODIFICACION DEL PLAN OPERATIVO INSTITUCIONAL
+                                    MULTIANUAL 2022-2024
                                 </div>
                             </div>
                         </div>
@@ -321,7 +324,8 @@ function Index() {
                                     lineHeight: '22px',
                                     top: '-40px',
                                     left: '70px'
-                                }}>RES N° 727-2022<br/>APROBAR LA MODIFICACION DEL REGLAMENTO DE DEFENSORIA UNIVERSITARIA
+                                }}>RES N° 727-2022<br/>APROBAR LA MODIFICACION DEL REGLAMENTO DE DEFENSORIA
+                                    UNIVERSITARIA
                                 </div>
                             </div>
                         </div>
@@ -341,7 +345,8 @@ function Index() {
                                     lineHeight: '22px',
                                     top: '-40px',
                                     left: '70px'
-                                }}>RES N° 728-2022<br/>APROBAR LA MODIFICACION DEL REGLAMENTO DE PREVENCION E INTERVENCION EN CASOS DE ACOSO SEXUAL
+                                }}>RES N° 728-2022<br/>APROBAR LA MODIFICACION DEL REGLAMENTO DE PREVENCION E
+                                    INTERVENCION EN CASOS DE ACOSO SEXUAL
                                 </div>
                             </div>
                         </div>
@@ -361,11 +366,36 @@ function Index() {
                                     lineHeight: '22px',
                                     top: '-40px',
                                     left: '70px'
-                                }}>RES N° 0729-2022<br/>APROBAR LA MODIFICACION DEL CÓDIGO DEL BUEN GOBIERNO INSTITUCIONAL
+                                }}>RES N° 0729-2022<br/>APROBAR LA MODIFICACION DEL CÓDIGO DEL BUEN GOBIERNO
+                                    INSTITUCIONAL
                                 </div>
                             </div>
                         </div>
                     </a>
+
+
+                    <a href="assets/files/RESOLUCION N° 730-2022 APROBAR ÑA MODIFICACION DEL REGLAMENTOO DE BIENESTAR UNIVERSITARIO.pdf">
+                        <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
+                             style={{maxWidth: '600px', marginTop: '0px', position: 'relative', margin: '0 auto'}}>
+                            <div>
+                                <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
+                                <div style={{
+                                    color: 'rgb(63,13,175)',
+                                    marginTop: '-12px',
+                                    fontFamily: 'Bebas Neue',
+                                    fontSize: '20px',
+                                    letterSpacing: '1.0px',
+                                    position: 'relative',
+                                    lineHeight: '22px',
+                                    top: '-40px',
+                                    left: '70px'
+                                }}>RES N° 0730-2022<br/>APROBAR LA MODIFICACIÓN DEL REGLAMENTO DE BIENESTAR
+                                    UNIVERSITARIO
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+
                     <a href="assets/files/RESOLUCION N° 731-2022 APROBAR LA MODIFICACION DEL REGLAMENTO DE BECAS.pdf">
                         <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
                              style={{maxWidth: '600px', marginTop: '0px', position: 'relative', margin: '0 auto'}}>
@@ -382,6 +412,74 @@ function Index() {
                                     top: '-40px',
                                     left: '70px'
                                 }}>RES N° 0731-2022<br/>APROBAR LA MODIFICACION DEL REGLAMENTO DE BECAS
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+
+                    <a href="assets/files/RESOLUCION N° 738-2022 APROBAR LA MODIFICACION DE LA POLITICA DE BIENESTAR UNIVERSITARIO.pdf">
+                        <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
+                             style={{maxWidth: '600px', marginTop: '0px', position: 'relative', margin: '0 auto'}}>
+                            <div>
+                                <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
+                                <div style={{
+                                    color: 'rgb(63,13,175)',
+                                    marginTop: '-12px',
+                                    fontFamily: 'Bebas Neue',
+                                    fontSize: '20px',
+                                    letterSpacing: '1.0px',
+                                    position: 'relative',
+                                    lineHeight: '22px',
+                                    top: '-40px',
+                                    left: '70px'
+                                }}>RES N° 0738-2022<br/>APROBAR LA MODIFICACION DE LA POLITICA DE BIENESTAR
+                                    UNIVERSITARIO
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+
+
+                    <a href="assets/files/RESOLUCION N° 739-2022 APROBAR LA MODIFICACION DE LA POLITICA DE RESPONSABILIDAD SOCIAL UNIVERSITARIA.pdf">
+                        <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
+                             style={{maxWidth: '600px', marginTop: '0px', position: 'relative', margin: '0 auto'}}>
+                            <div>
+                                <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
+                                <div style={{
+                                    color: 'rgb(63,13,175)',
+                                    marginTop: '-12px',
+                                    fontFamily: 'Bebas Neue',
+                                    fontSize: '20px',
+                                    letterSpacing: '1.0px',
+                                    position: 'relative',
+                                    lineHeight: '22px',
+                                    top: '-40px',
+                                    left: '70px'
+                                }}>RES N° 0739-2022<br/>APROBAR LA MODIFICACIÓN DE LA POLÍTICA DE RESPONSABILIDAD SOCIAL
+                                    UNIVERSITARIA
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+
+
+                    <a href="assets/files/RESOLUCION N° 741-2022  APROBAR LA MODIFICACION DEL REGLAMENTO DE RESPONSABILIDAD SOCIAL UNIVERSITARIA.pdf">
+                        <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
+                             style={{maxWidth: '600px', marginTop: '0px', position: 'relative', margin: '0 auto'}}>
+                            <div>
+                                <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
+                                <div style={{
+                                    color: 'rgb(63,13,175)',
+                                    marginTop: '-12px',
+                                    fontFamily: 'Bebas Neue',
+                                    fontSize: '20px',
+                                    letterSpacing: '1.0px',
+                                    position: 'relative',
+                                    lineHeight: '22px',
+                                    top: '-40px',
+                                    left: '70px'
+                                }}>RES N° 0741-2022<br/>APROBAR LA MODIFICACIÓN DEL REGLAMENTO DE RESPONSABILIDAD SOCIAL
+                                    UNIVERSITARIA
                                 </div>
                             </div>
                         </div>

@@ -95,6 +95,47 @@ function Index() {
 
                     <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
                          style={{maxWidth: '600px', marginTop: '-30px', position: 'relative', margin: '0 auto'}}>
+                        <a href="assets/files/POLÍTICA DE BIENESTAR UNIVERSITARIO.pdf">
+                            <div>
+                                <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
+                                <div style={{
+                                    color: 'rgb(63,13,175)',
+                                    marginTop: '8px',
+                                    fontFamily: 'Bebas Neue',
+                                    fontSize: '20px',
+                                    letterSpacing: '1.0px',
+                                    position: 'relative',
+                                    top: '-40px',
+                                    left: '70px'
+                                }}>POLÍTICA DE BIENESTAR UNIVERSITARIO
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+
+                    <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
+                         style={{maxWidth: '600px', marginTop: '-30px', position: 'relative', margin: '0 auto'}}>
+                        <a href="assets/files/POLÍTICA DE RESPONSABILIDAD SOCIAL UNIVERSITARIA.pdf">
+                            <div>
+                                <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
+                                <div style={{
+                                    color: 'rgb(63,13,175)',
+                                    marginTop: '8px',
+                                    fontFamily: 'Bebas Neue',
+                                    fontSize: '20px',
+                                    letterSpacing: '1.0px',
+                                    position: 'relative',
+                                    top: '-40px',
+                                    left: '70px'
+                                }}>
+                                    POLÍTICA DE RESPONSABILIDAD SOCIAL UNIVERSITARIA
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+
+                    <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
+                         style={{maxWidth: '600px', marginTop: '-30px', position: 'relative', margin: '0 auto'}}>
                         <a href="assets/files/REGLAMENTO DE DEFENSORÍA UNIVERSITARIA.pdf">
                             <div>
                                 <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
@@ -173,27 +214,65 @@ function Index() {
                         </a>
                     </div>
 
-                    {/*<div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"*/}
-                    {/*     style={{maxWidth: '600px', marginTop: '-30px', position: 'relative', margin: '0 auto'}}>*/}
-                    {/*    <a href="assets/files/Reglamento del Portal de Transparencia y Acceso a la Información.pdf">*/}
-                    {/*        <div>*/}
-                    {/*            <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>*/}
-                    {/*            <div style={{*/}
-                    {/*                color: 'rgb(63,13,175)',*/}
-                    {/*                marginTop: '8px',*/}
-                    {/*                fontFamily: 'Bebas Neue',*/}
-                    {/*                fontSize: '20px',*/}
-                    {/*                letterSpacing: '1.0px',*/}
-                    {/*                position: 'relative',*/}
-                    {/*                top: '-40px',*/}
-                    {/*                left: '70px'*/}
-                    {/*            }}>REGLAMENTO DEL PORTAL DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN*/}
-                    {/*            </div>*/}
-                    {/*        </div>*/}
-                    {/*    </a>*/}
-                    {/*</div>*/}
+                    <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
+                         style={{maxWidth: '600px', marginTop: '-30px', position: 'relative', margin: '0 auto'}}>
+                        <a href="assets/files/REGLAMENTO DE BIENESTAR UNIVERSITARIO.pdf">
+                            <div>
+                                <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
+                                <div style={{
+                                    color: 'rgb(63,13,175)',
+                                    marginTop: '8px',
+                                    fontFamily: 'Bebas Neue',
+                                    fontSize: '20px',
+                                    letterSpacing: '1.0px',
+                                    position: 'relative',
+                                    top: '-40px',
+                                    left: '70px'
+                                }}>REGLAMENTO DE BIENESTAR UNIVERSITARIO
+                                </div>
+                            </div>
+                        </a>
+                    </div>
 
+                    <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
+                         style={{maxWidth: '600px', marginTop: '-30px', position: 'relative', margin: '0 auto'}}>
+                        <a href="assets/files/REGLAMENTO DE RESPONSABILIDAD SOCIAL UNIVERSITARIA.pdf">
+                            <div>
+                                <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
+                                <div style={{
+                                    color: 'rgb(63,13,175)',
+                                    marginTop: '8px',
+                                    fontFamily: 'Bebas Neue',
+                                    fontSize: '20px',
+                                    letterSpacing: '1.0px',
+                                    position: 'relative',
+                                    top: '-40px',
+                                    left: '70px'
+                                }}>REGLAMENTO DE RESPONSABILIDAD SOCIAL UNIVERSITARIA
+                                </div>
+                            </div>
+                        </a>
+                    </div>
 
+                    <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
+                         style={{maxWidth: '600px', marginTop: '-30px', position: 'relative', margin: '0 auto'}}>
+                        <a href="assets/files/Reglamento del Portal de Transparencia y Acceso a la Información.pdf">
+                            <div>
+                                <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
+                                <div style={{
+                                    color: 'rgb(63,13,175)',
+                                    marginTop: '8px',
+                                    fontFamily: 'Bebas Neue',
+                                    fontSize: '20px',
+                                    letterSpacing: '1.0px',
+                                    position: 'relative',
+                                    top: '-40px',
+                                    left: '70px'
+                                }}>REGLAMENTO DEL PORTAL DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN
+                                </div>
+                            </div>
+                        </a>
+                    </div>
 
 
                 </div>
