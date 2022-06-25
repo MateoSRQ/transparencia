@@ -278,7 +278,7 @@ function Index() {
                                     letterSpacing: '1.0px',
                                     position: 'relative',
                                     lineHeight: '22px',
-                                    top: '-40px',
+                                    top: '-30px',
                                     left: '70px'
                                 }}>RES N° 717-2022<br/>APROBAR LA MODIFICACION DEL PLAN ESTRATÉGICO INSTITUCIONAL
                                     2022-2024
@@ -311,7 +311,7 @@ function Index() {
 
                     <a href="assets/files/RESOLUCION N° 727-2022 APROBAR LA MODIFICACION DEL REGLENTO DE DEFENSORIA UNIVERSITARIA.pdf">
                         <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
-                             style={{maxWidth: '600px', marginTop: '0px', position: 'relative', margin: '0 auto'}}>
+                             style={{maxWidth: '600px', marginTop: '4px', position: 'relative', margin: '0 auto'}}>
                             <div>
                                 <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
                                 <div style={{
@@ -322,7 +322,7 @@ function Index() {
                                     letterSpacing: '1.0px',
                                     position: 'relative',
                                     lineHeight: '22px',
-                                    top: '-40px',
+                                    top: '-30px',
                                     left: '70px'
                                 }}>RES N° 727-2022<br/>APROBAR LA MODIFICACION DEL REGLAMENTO DE DEFENSORIA
                                     UNIVERSITARIA
@@ -364,7 +364,7 @@ function Index() {
                                     letterSpacing: '1.0px',
                                     position: 'relative',
                                     lineHeight: '22px',
-                                    top: '-40px',
+                                    top: '-30px',
                                     left: '70px'
                                 }}>RES N° 0729-2022<br/>APROBAR LA MODIFICACION DEL CÓDIGO DEL BUEN GOBIERNO
                                     INSTITUCIONAL
@@ -387,7 +387,7 @@ function Index() {
                                     letterSpacing: '1.0px',
                                     position: 'relative',
                                     lineHeight: '22px',
-                                    top: '-40px',
+                                    top: '-30px',
                                     left: '70px'
                                 }}>RES N° 0730-2022<br/>APROBAR LA MODIFICACIÓN DEL REGLAMENTO DE BIENESTAR
                                     UNIVERSITARIO
@@ -409,7 +409,7 @@ function Index() {
                                     letterSpacing: '1.0px',
                                     position: 'relative',
                                     lineHeight: '22px',
-                                    top: '-40px',
+                                    top: '-30px',
                                     left: '70px'
                                 }}>RES N° 0731-2022<br/>APROBAR LA MODIFICACION DEL REGLAMENTO DE BECAS
                                 </div>
@@ -430,7 +430,7 @@ function Index() {
                                     letterSpacing: '1.0px',
                                     position: 'relative',
                                     lineHeight: '22px',
-                                    top: '-40px',
+                                    top: '-30px',
                                     left: '70px'
                                 }}>RES N° 0738-2022<br/>APROBAR LA MODIFICACION DE LA POLITICA DE BIENESTAR
                                     UNIVERSITARIO
@@ -484,6 +484,178 @@ function Index() {
                             </div>
                         </div>
                     </a>
+
+                    <a href="assets/files/RESOLUCION N° 745-2022 APROBAR LA MODIFICACION DE LAS LINEAS DE INVESTIGACION INSTITUCIONAL.pdf">
+                        <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
+                             style={{maxWidth: '600px', marginTop: '0px', position: 'relative', margin: '0 auto'}}>
+                            <div>
+                                <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
+                                <div style={{
+                                    color: 'rgb(63,13,175)',
+                                    marginTop: '-12px',
+                                    fontFamily: 'Bebas Neue',
+                                    fontSize: '20px',
+                                    letterSpacing: '1.0px',
+                                    position: 'relative',
+                                    lineHeight: '22px',
+                                    top: '-30px',
+                                    left: '70px'
+                                }}>RES N° 0745-2022<br/>APROBAR LA MODIFICACION DE LAS LINEAS DE INVESTIGACION INSTITUCIONAL
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+
+                    <a href="assets/files/RESOLUCION N° 746-2022-R-UAP POLITICAS GENERAL DE INVESTIGACIÓN(2).pdf">
+                        <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
+                             style={{maxWidth: '600px', marginTop: '0px', position: 'relative', margin: '0 auto'}}>
+                            <div>
+                                <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
+                                <div style={{
+                                    color: 'rgb(63,13,175)',
+                                    marginTop: '-12px',
+                                    fontFamily: 'Bebas Neue',
+                                    fontSize: '20px',
+                                    letterSpacing: '1.0px',
+                                    position: 'relative',
+                                    lineHeight: '22px',
+                                    top: '-30px',
+                                    left: '70px'
+                                }}>RES N° 0746-2022<br/>APROBAR LA POLÍTICA GENERAL DE INVESTIGACIÓN
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+
+                    <a href="assets/files/RESOLUCION N° 747-R-UAP REGLAMENTO PARA EL FOMENTO DE LA INVESTIGACIÓN(2).pdf">
+                        <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
+                             style={{maxWidth: '600px', marginTop: '0px', position: 'relative', margin: '0 auto'}}>
+                            <div>
+                                <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
+                                <div style={{
+                                    color: 'rgb(63,13,175)',
+                                    marginTop: '-12px',
+                                    fontFamily: 'Bebas Neue',
+                                    fontSize: '20px',
+                                    letterSpacing: '1.0px',
+                                    position: 'relative',
+                                    lineHeight: '22px',
+                                    top: '-30px',
+                                    left: '70px'
+                                }}>RES N° 0747-2022<br/>APROBAR LA MODIFICACIÓN DEL REGLAMENTO PARA EL FOMENTO DE LA INVESTIGACIÓN
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+
+                    <a href="assets/files/RESOLUCION N° 748-R-UAP Procedimiento para Postulación de Proyectos de Investigación.pdf">
+                        <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
+                             style={{maxWidth: '600px', marginTop: '0px', position: 'relative', margin: '0 auto'}}>
+                            <div>
+                                <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
+                                <div style={{
+                                    color: 'rgb(63,13,175)',
+                                    marginTop: '-12px',
+                                    fontFamily: 'Bebas Neue',
+                                    fontSize: '20px',
+                                    letterSpacing: '1.0px',
+                                    position: 'relative',
+                                    lineHeight: '22px',
+                                    top: '-30px',
+                                    left: '70px'
+                                }}>RES N° 0748-2022<br/>APROBAR LA MODIFICACIÓN DEL PROCEDIMIENTO PARA POSTULACIÓN DE PROYECTOS DE INVESTIGACIÓN
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+
+                    <a href="assets/files/RESOLUCION N° 750-R-UAP REglamento de Propiedad Intelectual(2).pdf">
+                        <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
+                             style={{maxWidth: '600px', marginTop: '0px', position: 'relative', margin: '0 auto'}}>
+                            <div>
+                                <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
+                                <div style={{
+                                    color: 'rgb(63,13,175)',
+                                    marginTop: '-12px',
+                                    fontFamily: 'Bebas Neue',
+                                    fontSize: '20px',
+                                    letterSpacing: '1.0px',
+                                    position: 'relative',
+                                    lineHeight: '22px',
+                                    top: '-30px',
+                                    left: '70px'
+                                }}>RES N° 0750-2022<br/>APROBAR EL REGLAMENTO DE PROPIEDAD INTELECTUAL
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+
+                    <a href="assets/files/RESOLUCION N° 751-R-UAP REglamento de Gestión de Docentes Investigadores(2).pdf">
+                        <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
+                             style={{maxWidth: '600px', marginTop: '0px', position: 'relative', margin: '0 auto'}}>
+                            <div>
+                                <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
+                                <div style={{
+                                    color: 'rgb(63,13,175)',
+                                    marginTop: '-12px',
+                                    fontFamily: 'Bebas Neue',
+                                    fontSize: '20px',
+                                    letterSpacing: '1.0px',
+                                    position: 'relative',
+                                    lineHeight: '22px',
+                                    top: '-30px',
+                                    left: '70px'
+                                }}>RES N° 0751-2022<br/>APROBAR EL REGLAMENTO DE GESTIÓN DE DOCENTES INVESTIGADORES
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+
+                    <a href="assets/files/RESOLUCION N° 752-R-UAP Código de Bioética y Ética para la Investigación(2).pdf" >
+                        <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
+                             style={{maxWidth: '600px', marginTop: '0px', position: 'relative', margin: '0 auto'}}>
+                            <div>
+                                <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
+                                <div style={{
+                                    color: 'rgb(63,13,175)',
+                                    marginTop: '-12px',
+                                    fontFamily: 'Bebas Neue',
+                                    fontSize: '20px',
+                                    letterSpacing: '1.0px',
+                                    position: 'relative',
+                                    lineHeight: '22px',
+                                    top: '-30px',
+                                    left: '70px'
+                                }}>RES N° 0752-2022<br/>APROBAR LA MODIFICACIÓN DEL CÓDIGO DE BIOÉTICA Y ÉTICA PARA LA INVESTIGACIÓN
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+
+                    <a href="assets/files/RESOLUCION N° 754-R-UAP Procedimiento para Grupos de Investigación(2).pdf">
+                        <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
+                             style={{maxWidth: '600px', marginTop: '0px', position: 'relative', margin: '0 auto'}}>
+                            <div>
+                                <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
+                                <div style={{
+                                    color: 'rgb(63,13,175)',
+                                    marginTop: '-12px',
+                                    fontFamily: 'Bebas Neue',
+                                    fontSize: '20px',
+                                    letterSpacing: '1.0px',
+                                    position: 'relative',
+                                    lineHeight: '22px',
+                                    top: '-30px',
+                                    left: '70px'
+                                }}>RES N° 0754-2022<br/>APROBAR LA MODIFICACIÓN DEL PROCEDIMIENTO PARA GRUPOS DE INVESTIGACIÓN
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+
+
+
+
                     <a href="assets/files/RESOLUCION N° 755-2022 APROBAR EL REGLAMENTO DE PROTECCION DE DATOS PERSONALES.pdf">
                         <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
                              style={{maxWidth: '600px', marginTop: '0px', position: 'relative', margin: '0 auto'}}>
@@ -497,7 +669,7 @@ function Index() {
                                     letterSpacing: '1.0px',
                                     position: 'relative',
                                     lineHeight: '22px',
-                                    top: '-40px',
+                                    top: '-30px',
                                     left: '70px'
                                 }}>RES N° 0755-2022<br/>APROBAR EL REGLAMENTO DE PROTECCION DE DATOS PERSONALES
                                 </div>
