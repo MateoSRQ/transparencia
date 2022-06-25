@@ -51,7 +51,6 @@ function Index() {
                     </div>
                     <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
                          style={{maxWidth: '600px', marginTop: '-40px', position: 'relative', margin: '0 auto'}}>
-
                         <a href="assets/files/LÍNEAS DE INVESTIGACIÓN INSTITUCIONALES.pdf">
                             <div>
                                 <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
@@ -101,7 +100,9 @@ function Index() {
                                 </div>
                             </div>
                         </a>
-
+                    </div>
+                    <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
+                         style={{maxWidth: '600px', marginTop: '-0px', position: 'relative', margin: '0 auto'}}>
                         <a href="assets/files/PROCEDIMIENTO PARA GRUPOS DE INVESTIGACIÓN.pdf">
                             <div>
                                 <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
@@ -118,8 +119,10 @@ function Index() {
                                 </div>
                             </div>
                         </a>
-
-                        <a href="assets/files/PROCEDIMIENTO PARA POSTULACIÓN DE PROYECTOS DE INVESTIGACIÓN.pdf" >
+                    </div>
+                    <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
+                         style={{maxWidth: '600px', marginTop: '-40px', position: 'relative', margin: '0 auto'}}>
+                        <a href="assets/files/PROCEDIMIENTO PARA POSTULACIÓN DE PROYECTOS DE INVESTIGACIÓN.pdf">
                             <div>
                                 <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
                                 <div style={{
@@ -135,8 +138,10 @@ function Index() {
                                 </div>
                             </div>
                         </a>
-
-                        <a href="assets/files/CÓDIGO DE BIOÉTICA Y ÉTICA PARA LA INVESTIGACIÓN.pdf" >
+                    </div>
+                    <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
+                         style={{maxWidth: '600px', marginTop: '-40px', position: 'relative', margin: '0 auto'}}>
+                        <a href="assets/files/CÓDIGO DE BIOÉTICA Y ÉTICA PARA LA INVESTIGACIÓN.pdf">
                             <div>
                                 <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
                                 <div style={{
@@ -153,8 +158,6 @@ function Index() {
                             </div>
                         </a>
                     </div>
-
-
                     <div className="font-sans font-bolder text-center align-middle "
                          style={{height: '105px', fontSize: '42px', margin: '0 auto'}}
                     >
@@ -204,7 +207,7 @@ function Index() {
                             </div>
                         </a>
 
-                        <a href="assets/files/REGLAMENTO PARA EL FOMENTO DE LA INVESTIGACIÓN.pdf" >
+                        <a href="assets/files/REGLAMENTO PARA EL FOMENTO DE LA INVESTIGACIÓN.pdf">
                             <div>
                                 <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
                                 <div style={{
@@ -220,13 +223,7 @@ function Index() {
                                 </div>
                             </div>
                         </a>
-
-
                     </div>
-
-
-
-
                 </div>
             </div>
 
@@ -261,7 +258,8 @@ function Index() {
                 </div>
             </div>
         </>
-    );
+    )
+        ;
 }
 
 export default Index;

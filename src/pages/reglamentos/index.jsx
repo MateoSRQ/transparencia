@@ -274,6 +274,63 @@ function Index() {
                         </a>
                     </div>
 
+                    <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
+                         style={{maxWidth: '600px', marginTop: '-30px', position: 'relative', margin: '0 auto'}}>
+                        <a href="assets/files/REGLAMENTO DE GESTIÓN DE DOCENTES INVESTIGADORES.pdf">
+                        <div>
+                            <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
+                            <div style={{
+                                color: 'rgb(63,13,175)',
+                                marginTop: '8px',
+                                fontFamily: 'Bebas Neue',
+                                fontSize: '20px',
+                                letterSpacing: '1.0px',
+                                position: 'relative',
+                                top: '-40px',
+                                left: '70px'
+                            }}>REGLAMENTO DE GESTIÓN DE DOCENTES INVESTIGADORES
+                            </div>
+                        </div>
+                    </a>
+                    </div>
+                    <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
+                         style={{maxWidth: '600px', marginTop: '-30px', position: 'relative', margin: '0 auto'}}>
+                    <a href="assets/files/REGLAMENTO DE PROTECCIÓN DE PROPIEDAD INTELECTUAL.pdf">
+                        <div>
+                            <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
+                            <div style={{
+                                color: 'rgb(63,13,175)',
+                                marginTop: '8px',
+                                fontFamily: 'Bebas Neue',
+                                fontSize: '20px',
+                                letterSpacing: '1.0px',
+                                position: 'relative',
+                                top: '-40px',
+                                left: '70px'
+                            }}>REGLAMENTO DE PROTECCIÓN DE PROPIEDAD INTELECTUAL
+                            </div>
+                        </div>
+                    </a>
+                    </div>
+                    <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
+                         style={{maxWidth: '600px', marginTop: '-30px', position: 'relative', margin: '0 auto'}}>
+                    <a href="assets/files/REGLAMENTO PARA EL FOMENTO DE LA INVESTIGACIÓN.pdf" >
+                        <div>
+                            <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
+                            <div style={{
+                                color: 'rgb(63,13,175)',
+                                marginTop: '8px',
+                                fontFamily: 'Bebas Neue',
+                                fontSize: '20px',
+                                letterSpacing: '1.0px',
+                                position: 'relative',
+                                top: '-40px',
+                                left: '70px'
+                            }}>REGLAMENTO PARA EL FOMENTO DE LA INVESTIGACIÓN
+                            </div>
+                        </div>
+                    </a>
+                    </div>
 
                 </div>
             </div>
@@ -304,9 +361,9 @@ function Index() {
                             <div>Av. San Felipe 1109 - Jesús María, Lima</div>
                         </div>
                     </div>
-
-
                 </div>
+
+
             </div>
         </>
     )
