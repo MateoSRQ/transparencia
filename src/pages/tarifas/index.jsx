@@ -134,7 +134,7 @@ lineHeight: '32px'      }}>TARIFARIO DE GRADOS y TÍTULOS
                     </div>
                     <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
                          style={{maxWidth: '600px', marginTop: '-30px', position: 'relative', margin: '0 auto'}}>
-                        <a href='assets/files/TARIFARIO GRADOS Y TÍTULOS 2022.pdf'>
+                        <a href='assets/files/TARIFARIO GRADOS Y TÍTULOS - 30.06.22.pdf'>
                             <div>
                                 <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
                                 <div style={{
