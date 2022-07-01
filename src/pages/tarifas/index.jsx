@@ -46,26 +46,27 @@ function Index() {
                             fontStyle: 'bold',
                             fontFamily: 'Source Sans Pro',
                             letterSpacing: '-1.9px',
-lineHeight: '32px'      }}>ESCALA DE PENSIONES
+                            lineHeight: '32px'
+                        }}>ESCALA DE PENSIONES
                         </h1>
                     </div>
                     <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
                          style={{maxWidth: '600px', marginTop: '-30px', position: 'relative', margin: '0 auto'}}>
                         <a href='assets/files/22.06.12TARIFARIOS_PENSIONES_2022-1.pdf'>
-                        <div>
-                            <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
-                            <div style={{
-                                color: 'rgb(63,13,175)',
-                                marginTop: '8px',
-                                fontFamily: 'Bebas Neue',
-                                fontSize: '20px',
-                                letterSpacing: '1.0px',
-                                position: 'relative',
-                                top: '-40px',
-                                left: '70px'
-                            }}>ESCALA DE PENSIONES
+                            <div>
+                                <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
+                                <div style={{
+                                    color: 'rgb(63,13,175)',
+                                    marginTop: '8px',
+                                    fontFamily: 'Bebas Neue',
+                                    fontSize: '20px',
+                                    letterSpacing: '1.0px',
+                                    position: 'relative',
+                                    top: '-40px',
+                                    left: '70px'
+                                }}>ESCALA DE PENSIONES
+                                </div>
                             </div>
-                        </div>
                         </a>
                     </div>
 
@@ -77,7 +78,8 @@ lineHeight: '32px'      }}>ESCALA DE PENSIONES
                             fontStyle: 'bold',
                             fontFamily: 'Source Sans Pro',
                             letterSpacing: '-1.9px',
-lineHeight: '32px'      }}>TARIFARIO DE TRÁMITES
+                            lineHeight: '32px'
+                        }}>TARIFARIO DE TRÁMITES
                         </h1>
                     </div>
                     <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
@@ -129,7 +131,8 @@ lineHeight: '32px'      }}>TARIFARIO DE TRÁMITES
                             fontStyle: 'bold',
                             fontFamily: 'Source Sans Pro',
                             letterSpacing: '-1.9px',
-lineHeight: '32px'      }}>TARIFARIO DE GRADOS y TÍTULOS
+                            lineHeight: '32px'
+                        }}>TARIFARIO DE GRADOS y TÍTULOS
                         </h1>
                     </div>
                     <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
