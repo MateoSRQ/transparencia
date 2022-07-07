@@ -53,8 +53,29 @@ function Index() {
                         }}>ACTAS DE DIRECTORIO
                         </h1>
                     </div>
+
                     <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
                          style={{maxWidth: '600px', marginTop: '-30px', position: 'relative', margin: '0 auto'}}>
+
+                        <div>
+                            <a href="assets/files/SESIÓN ORDINARIA DE DIRECTORIO N° 012– 2021.pdf">
+                                <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
+                                <div style={{
+                                    color: 'rgb(63,13,175)',
+                                    marginTop: '8px',
+                                    fontFamily: 'Bebas Neue',
+                                    fontSize: '20px',
+                                    letterSpacing: '1.0px',
+                                    position: 'relative',
+                                    top: '-40px',
+                                    left: '70px'
+                                }}>
+                                    SESIÓN ORDINARIA DE DIRECTORIO N° 012– 2021
+                                </div>
+                            </a>
+                        </div>
+
+
                         <div>
                             <a href="assets/files/SESIÓN ORDINARIA DE DIRECTORIO N° 012– 2022.pdf">
                                 <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
@@ -91,6 +112,24 @@ function Index() {
                         </div>
 
                         <div>
+                            <a href="assets/files/SESIÓN ORDINARIA DE DIRECTORIO N° 014– 2022.pdf">
+                                <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
+                                <div style={{
+                                    color: 'rgb(63,13,175)',
+                                    marginTop: '8px',
+                                    fontFamily: 'Bebas Neue',
+                                    fontSize: '20px',
+                                    letterSpacing: '1.0px',
+                                    position: 'relative',
+                                    top: '-40px',
+                                    left: '70px'
+                                }}>
+                                    SESIÓN ORDINARIA DE DIRECTORIO N° 014– 2022
+                                </div>
+                            </a>
+                        </div>
+
+                        <div>
                             <a href="assets/files/SESIÓN ORDINARIA DE DIRECTORIO N° 015– 2022.V.pdf">
                                 <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
                                 <div style={{
@@ -107,6 +146,29 @@ function Index() {
                                 </div>
                             </a>
                         </div>
+
+
+                        <div>
+                            <a href="assets/files/SESIÓN ORDINARIA DE DIRECTORIO N° 016– 2022.pdf">
+                                <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
+                                <div style={{
+                                    color: 'rgb(63,13,175)',
+                                    marginTop: '8px',
+                                    fontFamily: 'Bebas Neue',
+                                    fontSize: '20px',
+                                    letterSpacing: '1.0px',
+                                    position: 'relative',
+                                    top: '-40px',
+                                    left: '70px'
+                                }}>
+                                    SESIÓN ORDINARIA DE DIRECTORIO N° 016– 2022
+                                </div>
+                            </a>
+                        </div>
+
+
+
+
                         <div>
                             <a href="assets/files/SESIÓN ORDINARIA DE DIRECTORIO N° 017– 2022.V.pdf">
                                 <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
@@ -735,6 +797,27 @@ function Index() {
                                     top: '-40px',
                                     left: '70px'
                                 }}>RES N° 0784-2022<br/>APROBAR LA MODIFICACIÓN DEL REGLAMENTO GENERAL
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+
+                    <a href="assets/files/RESOLUCION N° 842-2022 DESIGNAR A ROSA EVA PEREZ SIGUA VRI DE LA UAP.pdf">
+                        <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
+                             style={{maxWidth: '600px', marginTop: '0px', position: 'relative', margin: '0 auto'}}>
+                            <div>
+                                <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
+                                <div style={{
+                                    color: 'rgb(63,13,175)',
+                                    marginTop: '-0px',
+                                    fontFamily: 'Bebas Neue',
+                                    fontSize: '20px',
+                                    letterSpacing: '1.0px',
+                                    position: 'relative',
+                                    lineHeight: '22px',
+                                    top: '-40px',
+                                    left: '70px'
+                                }}>RES N° 0842-2022<br/> DESIGNAR A LA DRA ROSA EVA PEREZ SIGUA COMO VICEVERRECTORA DE INVESTIGACIÓN DE LA UAP
                                 </div>
                             </div>
                         </div>
