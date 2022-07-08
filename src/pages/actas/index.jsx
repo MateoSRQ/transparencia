@@ -241,6 +241,28 @@ function Index() {
                             </div>
                         </div>
                     </a>
+
+                    <a href="assets/files/RESOLUCION N° 639-2022-R-UAP REGLAMENTO INTERNO DE TRABAJO.pdf">
+                        <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
+                             style={{maxWidth: '600px', marginTop: '0px', position: 'relative', margin: '0 auto'}}>
+                            <div>
+                                <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
+                                <div style={{
+                                    color: 'rgb(63,13,175)',
+                                    marginTop: '-0px',
+                                    fontFamily: 'Bebas Neue',
+                                    fontSize: '20px',
+                                    letterSpacing: '1.0px',
+                                    position: 'relative',
+                                    lineHeight: '22px',
+                                    top: '-40px',
+                                    left: '70px'
+                                }}>RES N° 0639-2022<br/>APROBAR EL REGLAMENTO INTERNO DE TRABAJO
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+
                     <a href="assets/files/RES. N° 0685-2022 APROBAR LA MODIFICACION DEL REGLAMENTO DE GRADOS Y TITULOS.pdf">
                         <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
                              style={{maxWidth: '600px', marginTop: '0px', position: 'relative', margin: '0 auto'}}>
