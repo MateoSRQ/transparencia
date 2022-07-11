@@ -151,7 +151,7 @@ function Index() {
 
                     <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
                          style={{maxWidth: '600px', marginTop: '-30px', position: 'relative', margin: '0 auto'}}>
-                        <a href="assets/files/INVERSIONES 2016.docx">
+                        <a href="assets/files/INVERSIONES 2016.pdf">
                         <div>
                             <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
                             <div style={{
@@ -171,7 +171,7 @@ function Index() {
 
                     <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
                          style={{maxWidth: '600px', marginTop: '-0px', position: 'relative', margin: '0 auto'}}>
-                        <a href="assets/files/INVERSIONES 2017.docx">
+                        <a href="assets/files/INVERSIONES 2017.pdf">
                             <div>
                                 <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
                                 <div style={{
@@ -191,7 +191,7 @@ function Index() {
 
                     <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
                          style={{maxWidth: '600px', marginTop: '-0px', position: 'relative', margin: '0 auto'}}>
-                        <a href="assets/files/INVERSIONES 2018.docx">
+                        <a href="assets/files/INVERSIONES 2018.pdf">
                             <div>
                                 <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
                                 <div style={{
@@ -211,7 +211,7 @@ function Index() {
 
                     <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
                          style={{maxWidth: '600px', marginTop: '-0px', position: 'relative', margin: '0 auto'}}>
-                        <a href="assets/files/INVERSIONES 2019.docx">
+                        <a href="assets/files/INVERSIONES 2019.pdf">
                             <div>
                                 <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
                                 <div style={{
@@ -231,7 +231,7 @@ function Index() {
 
                     <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
                          style={{maxWidth: '600px', marginTop: '-0px', position: 'relative', margin: '0 auto'}}>
-                        <a href="assets/files/INVERSIONES 2020.docx">
+                        <a href="assets/files/INVERSIONES 2020.pdf">
                             <div>
                                 <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
                                 <div style={{
@@ -251,7 +251,7 @@ function Index() {
 
                     <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
                          style={{maxWidth: '600px', marginTop: '-0px', position: 'relative', margin: '0 auto'}}>
-                        <a href="assets/files/INVERSIONES 2021.docx">
+                        <a href="assets/files/INVERSIONES 2021.pdf">
                             <div>
                                 <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
                                 <div style={{
@@ -284,7 +284,7 @@ function Index() {
 
                     <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
                          style={{maxWidth: '600px', marginTop: '-30px', position: 'relative', margin: '0 auto'}}>
-                        <a href="assets/files/REINVERSIONES 2016.docx">
+                        <a href="assets/files/REINVERSIONES 2016.pdf">
                         <div>
                             <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
                             <div style={{
@@ -303,7 +303,7 @@ function Index() {
                     </div>
                     <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
                          style={{maxWidth: '600px', marginTop: '-0px', position: 'relative', margin: '0 auto'}}>
-                        <a href="assets/files/REINVERSIONES 2017.docx">
+                        <a href="assets/files/REINVERSIONES 2017.pdf">
                             <div>
                                 <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
                                 <div style={{
@@ -322,7 +322,7 @@ function Index() {
                     </div>
                     <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
                          style={{maxWidth: '600px', marginTop: '-0px', position: 'relative', margin: '0 auto'}}>
-                        <a href="assets/files/REINVERSIONES 2018.docx">
+                        <a href="assets/files/REINVERSIONES 2018.pdf">
                             <div>
                                 <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
                                 <div style={{
@@ -341,7 +341,7 @@ function Index() {
                     </div>
                     <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
                          style={{maxWidth: '600px', marginTop: '-0px', position: 'relative', margin: '0 auto'}}>
-                        <a href="assets/files/REINVERSIONES 2019.docx">
+                        <a href="assets/files/REINVERSIONES 2019.pdf">
                             <div>
                                 <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
                                 <div style={{
@@ -361,7 +361,7 @@ function Index() {
 
                     <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
                          style={{maxWidth: '600px', marginTop: '-0px', position: 'relative', margin: '0 auto'}}>
-                        <a href="assets/files/REINVERSIONES 2020.docx">
+                        <a href="assets/files/REINVERSIONES 2020.pdf">
                             <div>
                                 <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
                                 <div style={{
@@ -381,7 +381,7 @@ function Index() {
 
                     <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
                          style={{maxWidth: '600px', marginTop: '-0px', position: 'relative', margin: '0 auto'}}>
-                        <a href="assets/files/REINVERSIONES 2021.docx">
+                        <a href="assets/files/REINVERSIONES 2021.pdf">
                             <div>
                                 <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
                                 <div style={{
@@ -415,7 +415,7 @@ function Index() {
 
                     <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
                          style={{maxWidth: '600px', marginTop: '-30px', position: 'relative', margin: '0 auto'}}>
-                        <a href="assets/files/OBRAS DE INFRAESTRUCTURA 2016.docx">
+                        <a href="assets/files/OBRAS DE INFRAESTRUCTURA 2016.pdf">
                         <div>
                             <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
                             <div style={{
@@ -434,7 +434,7 @@ function Index() {
                     </div>
                     <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
                          style={{maxWidth: '600px', marginTop: '0px', position: 'relative', margin: '0 auto'}}>
-                        <a href="assets/files/OBRAS DE INFRAESTRUCTURA 2017.docx">
+                        <a href="assets/files/OBRAS DE INFRAESTRUCTURA 2017.pdf">
                             <div>
                                 <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
                                 <div style={{
@@ -453,7 +453,7 @@ function Index() {
                     </div>
                     <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
                          style={{maxWidth: '600px', marginTop: '-30px', position: 'relative', margin: '0 auto'}}>
-                        <a href="assets/files/OBRAS DE INFRAESTRUCTURA 2018.docx">
+                        <a href="assets/files/OBRAS DE INFRAESTRUCTURA 2018.pdf">
                             <div>
                                 <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
                                 <div style={{
@@ -472,7 +472,7 @@ function Index() {
                     </div>
                     <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
                          style={{maxWidth: '600px', marginTop: '0px', position: 'relative', margin: '0 auto'}}>
-                        <a href="assets/files/OBRAS DE INFRAESTRUCTURA 2019.docx">
+                        <a href="assets/files/OBRAS DE INFRAESTRUCTURA 2019.pdf">
                             <div>
                                 <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
                                 <div style={{
@@ -491,7 +491,7 @@ function Index() {
                     </div>
                     <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
                          style={{maxWidth: '600px', marginTop: '-30px', position: 'relative', margin: '0 auto'}}>
-                        <a href="assets/files/OBRAS DE INFRAESTRUCTURA 2020.docx">
+                        <a href="assets/files/OBRAS DE INFRAESTRUCTURA 2020.pdf">
                             <div>
                                 <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
                                 <div style={{
@@ -510,7 +510,7 @@ function Index() {
                     </div>
                     <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
                          style={{maxWidth: '600px', marginTop: '-30px', position: 'relative', margin: '0 auto'}}>
-                        <a href="assets/files/OBRAS DE INFRAESTRUCTURA 2021.docx">
+                        <a href="assets/files/OBRAS DE INFRAESTRUCTURA 2021.pdf">
                             <div>
                                 <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
                                 <div style={{
@@ -542,7 +542,7 @@ function Index() {
 
                     <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
                          style={{maxWidth: '600px', marginTop: '-30px', position: 'relative', margin: '0 auto'}}>
-                        <a href="assets/files/DONACIONES 2016.docx">
+                        <a href="assets/files/DONACIONES 2016.pdf">
                         <div>
                             <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
                             <div style={{
@@ -561,7 +561,7 @@ function Index() {
                     </div>
                     <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
                          style={{maxWidth: '600px', marginTop: '-30px', position: 'relative', margin: '0 auto'}}>
-                        <a href="assets/files/DONACIONES 2017.docx">
+                        <a href="assets/files/DONACIONES 2017.pdf">
                             <div>
                                 <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
                                 <div style={{
@@ -580,7 +580,7 @@ function Index() {
                     </div>
                     <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
                          style={{maxWidth: '600px', marginTop: '-30px', position: 'relative', margin: '0 auto'}}>
-                        <a href="assets/files/DONACIONES 2018.docx">
+                        <a href="assets/files/DONACIONES 2018.pdf">
                             <div>
                                 <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
                                 <div style={{
