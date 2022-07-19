@@ -187,6 +187,42 @@ function Index() {
                             </a>
                         </div>
 
+                        <div>
+                            <a href="assets/files/SESIÓN ORDINARIA DE DIRECTORIO N° 018– 2022.V.pdf">
+                                <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
+                                <div style={{
+                                    color: 'rgb(63,13,175)',
+                                    marginTop: '8px',
+                                    fontFamily: 'Bebas Neue',
+                                    fontSize: '20px',
+                                    letterSpacing: '1.0px',
+                                    position: 'relative',
+                                    top: '-40px',
+                                    left: '70px'
+                                }}>
+                                    SESIÓN ORDINARIA DE DIRECTORIO N° 018– 2022.
+                                </div>
+                            </a>
+                        </div>
+
+                        <div>
+                            <a href="assets/files/SESIÓN ORDINARIA DE DIRECTORIO N° 019– 2022.V.pdf">
+                                <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
+                                <div style={{
+                                    color: 'rgb(63,13,175)',
+                                    marginTop: '8px',
+                                    fontFamily: 'Bebas Neue',
+                                    fontSize: '20px',
+                                    letterSpacing: '1.0px',
+                                    position: 'relative',
+                                    top: '-40px',
+                                    left: '70px'
+                                }}>
+                                    SESIÓN ORDINARIA DE DIRECTORIO N° 019– 2022.
+                                </div>
+                            </a>
+                        </div>
+
                     </div>
                     <div className="font-sans font-bolder text-center align-middle "
                          style={{height: '105px', fontSize: '42px', margin: '0 auto'}}
