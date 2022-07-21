@@ -411,6 +411,26 @@ function Index() {
                         </a>
                     </div>
 
+                    <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-1 mx-auto"
+                         style={{maxWidth: '600px', marginTop: '-30px', position: 'relative', margin: '0 auto'}}>
+                        <a href="assets/files/REGLAMENTO DEL TRIBUNAL DE HONOR UNIVERSITARIO_V2 (1).pdf">
+                            <div>
+                                <img src="assets/images/pdf.png" style={{transform: 'rotateZ(-0deg)', width: '42px'}}/>
+                                <div style={{
+                                    color: 'rgb(63,13,175)',
+                                    marginTop: '8px',
+                                    fontFamily: 'Bebas Neue',
+                                    fontSize: '20px',
+                                    letterSpacing: '1.0px',
+                                    position: 'relative',
+                                    top: '-40px',
+                                    left: '70px'
+                                }}>REGLAMENTO DEL TRIBUNAL DE HONOR UNIVERSITARIO
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+
 
                 </div>
             </div>
